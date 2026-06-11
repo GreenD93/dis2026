@@ -50,10 +50,10 @@
 - 💡 **[리치 응답 설계]** 대화형 검색 **응답 포맷(granularity·미디어)**을 사용자 인지상태에 정렬. (NUS)
 - 🔗 [DOI](https://doi.org/10.1145/3772318.3790317) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/223525) · 📄 `CHI26/CHI03_*.pdf`
 
-#### 7. CHI19 · ★ · 인용 0 · ⏳ Characterizing Unintended Consequences of GUI Agents For Web Browsing
+#### 7. CHI19 · ★ · 인용 0 · 📄 Characterizing Unintended Consequences of GUI Agents For Web Browsing
 - 👤 Shuning Zhang (Tsinghua University); Jingruo Chen (Cornell University) 외 4인
 - 💡 **[GUI 에이전트 사용자행동]** 웹 브라우징 GUI 에이전트의 **실사용 이슈·영향·완화**를 사용자 보고 기반으로 특성화.
-- 🔗 [DOI](https://doi.org/10.1145/3772318.3790696) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222463) · ⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)
+- 🔗 [DOI](https://doi.org/10.1145/3772318.3790696) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222463) · 📄 `CHI26/CHI19_*.pdf`
 
 #### 8. CHI20 · ★ · 인용 0 · 🇰🇷 ⏳ Toward Independent Online Shopping of the Visually Impaired Through Voice-based Computer-Using Agent
 - 👤 Subin Shin (Yonsei University); Jeesun Oh (Yonsei University) 외 3인
@@ -77,15 +77,15 @@
 - 💡 **[성격→자기개념]** AI 성격 특성이 대화로 **사용자 자기개념**을 바꿀 수 있다 — 페르소나 설계의 윤리 리스크.
 - 🔗 [DOI](https://doi.org/10.1145/3772318.3790654) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222444) · 📄 `CHI26/CHI24_*.pdf`
 
-#### 4. CHI25 · ★★ · 인용 1 · ⏳ "It Seems to Understand My Heart": An Empirical Study of Persona-Driven Persuasive AI Agent for Aging-in-Place in Singapore 
+#### 4. CHI25 · ★★ · 인용 1 · 📄 "It Seems to Understand My Heart": An Empirical Study of Persona-Driven Persuasive AI Agent for Aging-in-Place in Singapore 
 - 👤 BO GAO (LILY(Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly)); Zhiwei Zeng (Nanyang Technological University) 외 9인
 - 💡 **[페르소나 설득]** Dual-Persona 기반 **문화·성격 맞춤 설득 에이전트**(고령 돌봄·aging-in-place).
-- 🔗 [DOI](https://doi.org/10.1145/3772318.3791422) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222460) · ⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)
+- 🔗 [DOI](https://doi.org/10.1145/3772318.3791422) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222460) · 📄 `CHI26/CHI25_*.pdf`
 
-#### 5. CHI23 · ★ · 인용 0 · ⏳ PCGEF: A Framework for Diagnosing Subjective Alignment in Human-Centered Persona-Conditioned Generation
+#### 5. CHI23 · ★ · 인용 0 · 📄 PCGEF: A Framework for Diagnosing Subjective Alignment in Human-Centered Persona-Conditioned Generation
 - 👤 Kana Maruyama (Sony AI); Tarek Besold (Sony AI)
 - 💡 **[페르소나 정합 진단]** persona-conditioned 생성의 **주관적 정합**을 진단하는 프레임워크(PCGEF, Sony AI).
-- 🔗 [DOI](https://doi.org/10.1145/3772318.3791402) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222597) · ⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)
+- 🔗 [DOI](https://doi.org/10.1145/3772318.3791402) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222597) · 📄 `CHI26/CHI23_*.pdf`
 
 ### Ⅲ. 넛지·설득·광고·커머스 (+ 다크패턴 경계)
 
@@ -162,13 +162,13 @@
 | Ⅰ 메커니즘 | 4 | CHI01 | Bridging Gulfs in UI Generation through Semant | 1 | ★★ | ✅ |
 | Ⅰ 메커니즘 | 5 | CHI05 | Interaction Methods in Generative AI Image Too | 1 | ★★ | ✅ |
 | Ⅰ 메커니즘 | 6 | CHI03 | Fit Matters: Format–Distance Alignment Improve | 1 | ★★ | ✅ |
-| Ⅰ 메커니즘 | 7 | CHI19 | Characterizing Unintended Consequences of GUI  | 0 | ★ | ⏳ |
+| Ⅰ 메커니즘 | 7 | CHI19 | Characterizing Unintended Consequences of GUI  | 0 | ★ | ✅ |
 | Ⅰ 메커니즘 | 8 | CHI20 | Toward Independent Online Shopping of the Visu | 0 | ★ | ⏳ |
 | Ⅱ 페르소나 | 1 | CHI21 | Creating and Evaluating Personas Using Generat | 7 | ★★★ | ✅ |
 | Ⅱ 페르소나 | 2 | CHI22 | Vibe Check: Understanding the Effects of LLM-B | 6 | ★★★ | ✅ |
 | Ⅱ 페르소나 | 3 | CHI24 | AI-exhibited Personality Traits Can Shape Huma | 4 | ★★ | ✅ |
-| Ⅱ 페르소나 | 4 | CHI25 | "It Seems to Understand My Heart": An Empirica | 1 | ★★ | ⏳ |
-| Ⅱ 페르소나 | 5 | CHI23 | PCGEF: A Framework for Diagnosing Subjective A | 0 | ★ | ⏳ |
+| Ⅱ 페르소나 | 4 | CHI25 | "It Seems to Understand My Heart": An Empirica | 1 | ★★ | ✅ |
+| Ⅱ 페르소나 | 5 | CHI23 | PCGEF: A Framework for Diagnosing Subjective A | 0 | ★ | ✅ |
 | Ⅲ 넛지·광고 | 1 | CHI17 | Dark Patterns Meet GUI Agents: LLM Agent Susce | 9 | ★★★ | ✅ |
 | Ⅲ 넛지·광고 | 2 | CHI02 | Deception at Scale: Deceptive Designs in 1K LL | 1 | ★★★ | ✅ |
 | Ⅲ 넛지·광고 | 3 | CHI10 | The Bots of Persuasion: Examining How Conversa | 1 | ★★ | ✅ |
