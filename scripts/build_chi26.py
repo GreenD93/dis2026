@@ -151,7 +151,7 @@ c.append("2. **AI 페르소나·정체성 설계**")
 c.append("3. **넛지·설득·광고·커머스** (+ 다크패턴 경계)")
 c.append("4. **금융 × AI 인터페이스** — 금융활동·의사결정")
 c.append("5. **사용자 행동·신뢰·과의존**\n")
-c.append("## 논문 리스트\n📄 PDF 위치 `CHI26/` · 🔗 DOI = ACM DL · **섹션 내 순위 = 인용수(↓) + 관련도(★)**")
+c.append("## 논문 리스트\n📄 PDF 위치 `papers/CHI26/` · 🔗 DOI = ACM DL · **섹션 내 순위 = 인용수(↓) + 관련도(★)**")
 c.append("> 인용수: Semantic Scholar 기준(2026 논문이라 프리프린트 인용 위주, ACM 조회수 API 미제공). ★★★=비전 핵심 · ★★=강함 · ★=관련.\n")
 import json as _j
 CITES=_j.load(open(__import__('os').path.join(__import__('os').path.dirname(__file__),'chi_cites.json')))
@@ -175,21 +175,21 @@ for gt,codes in GROUPS_C:
     ORDER[gt]=ranked
     c.append(f"### {gt}\n")
     for i,code in enumerate(ranked,1):
-        r=bc[code]; pdf=has_pdf('CHI26',code)
+        r=bc[code]; pdf=has_pdf('papers/CHI26',code)
         flags=("🇰🇷 " if r['korean'] else "")+("📄 " if pdf else "⏳ ")
         c.append(f"#### {i}. {code} · {stars(code)} · 인용 {cc(code)} · {flags}{r['title']}")
         c.append(f"- 👤 {leads(r)}")
         c.append(f"- 💡 {DESC.get(code,'')}")
-        tail=(f"📄 `CHI26/{code}_*.pdf`" if pdf else "⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)")
+        tail=(f"📄 `papers/CHI26/{code}_*.pdf`" if pdf else "⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)")
         c.append(f"- 🔗 [DOI](https://doi.org/{r['doi']}) · [프로그램]({plink('chi',r['id'])}) · {tail}\n")
 c.append("## 요약 표 (섹션 → 인용수·관련도순)\n| 섹션 | 순위 | 코드 | 논문 | 인용 | 관련도 | PDF |\n|---|---|---|---|---|---|---|")
 SECN={0:'Ⅰ 메커니즘',1:'Ⅱ 페르소나',2:'Ⅲ 넛지·광고',3:'Ⅳ 금융',4:'Ⅴ 행동'}
 for gi,(gt,codes) in enumerate(GROUPS_C):
     for i,code in enumerate(ORDER[gt],1):
-        r=bc[code]; pdf="✅" if has_pdf('CHI26',code) else "⏳"
+        r=bc[code]; pdf="✅" if has_pdf('papers/CHI26',code) else "⏳"
         c.append(f"| {SECN[gi]} | {i} | {code} | {r['title'][:46]} | {cc(code)} | {stars(code)} | {pdf} |")
 c.append("")
 open(f"{BASE}/CHI26.md",'w').write("\n".join(c))
 print("CHI26.md written (DIS via gen_dis.py)")
-print("CHI PDFs:", sum(has_pdf('CHI26',f'CHI{n:02d}') for n in range(1,11)),"/10")
+print("CHI PDFs:", sum(has_pdf('papers/CHI26',f'CHI{n:02d}') for n in range(1,11)),"/10")
 print("DIS PDFs:", sum(has_pdf('DIS26',r['code']) for r in F['DIS']),"/15")

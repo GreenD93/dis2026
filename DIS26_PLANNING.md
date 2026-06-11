@@ -6,7 +6,7 @@
 ## 0. 이 정리의 관점 — 인터넷은행 AX팀
 
 > 통합 신규 인터페이스(Orchestration)·Agentic AI를 만드는 입장에서, **(Ⅰ) 통합/에이전트 인터페이스 · (Ⅱ) AI 페르소나(정체성 설계 + 합성 페르소나) · (Ⅲ) Agentic 금융서비스 고객 행동 · (Ⅳ) 인터페이스로 사기·기만 방어** 4갈래(연관성 기준 병합)로 DIS 논문을 정리한다.
-> 표기: 🇰🇷 한국 기관 저자 · 📄 PDF 확보(`DIS26/`) · 🔗 공식 프로그램(논문집은 학회 후 ACM DL 공개)
+> 표기: 🇰🇷 한국 기관 저자 · 📄 PDF 확보(`papers/DIS26/`) · 🔗 공식 프로그램(논문집은 학회 후 ACM DL 공개)
 
 ## 1. 학회 일정 골격
 
@@ -50,7 +50,7 @@
 
 - `DIS08` 💰 금융 고객행동 📄 **Bonik Somiti: A Social-market Tool for Safe, Accountable, and Harmonious Informal E-Market Ecosystem in Bangladesh**
   - 비공식 전자상거래 생태계를 위한 **안전·책임 소셜마켓 도구** — 신뢰 기반 금융거래 행동 설계.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257147) · [arXiv](https://arxiv.org/abs/2602.12650) · 📄 `DIS26/DIS08_*.pdf`
+  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257147) · [arXiv](https://arxiv.org/abs/2602.12650) · 📄 `papers/DIS26/DIS08_*.pdf`
 
 **🕘 16:10–17:40 · Agency and Explanation in AI Systems · 📍 Auditorium 1 (Town Plaza Lv1)**
 
@@ -70,10 +70,10 @@
 
 - `DIS12` 🎭 AI 페르소나 📄 **Understanding Down Syndrome Stereotypes in LLM-Based Personas**
   - **LLM+RAG로 사용자 페르소나 모델링**(Persona-L) + 고정관념 리스크 — 합성 페르소나로 고객 이해(주의점). ★
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257253) · [arXiv](https://arxiv.org/abs/2512.02275) · 📄 `DIS26/DIS12_*.pdf`
+  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257253) · [arXiv](https://arxiv.org/abs/2512.02275) · 📄 `papers/DIS26/DIS12_*.pdf`
 - `DIS15` 🎭 AI 페르소나 📄 **ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas**
   - 온라인 커뮤니티 **멤버 페르소나**로 대화형 정보탐색 — 실제 사용자 군집을 페르소나로 모사.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257070) · [arXiv](https://arxiv.org/abs/2603.19747) · 📄 `DIS26/DIS15_*.pdf`
+  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257070) · [arXiv](https://arxiv.org/abs/2603.19747) · 📄 `papers/DIS26/DIS15_*.pdf`
 
 **🕘 11:00–12:30 · Social XR and Virtual Companionship · 📍 LT 51 (Stephen Riady Centre Lv1)**
 
@@ -102,7 +102,7 @@
 
 - `DIS04` 🧩 통합·Orchestration 🇰🇷📄 **IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI**
   - 생성형 AI의 **의도 전달(intent communication) 동역학** — 의도→결과 명세 워크플로. (KAIST, Juho Kim 랩)
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257035) · [arXiv](https://arxiv.org/abs/2507.22134) · 📄 `DIS26/DIS04_*.pdf`
+  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257035) · [arXiv](https://arxiv.org/abs/2507.22134) · 📄 `papers/DIS26/DIS04_*.pdf`
 
 **🕘 11:00–12:30 · Accessibility Across Vision and Print · 📍 LT 50 (Stephen Riady Centre Lv1)**
 
@@ -152,4 +152,4 @@
 
 ## 5. PDF 안내
 
-DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `DIS26/`에 확보 — 나머지는 개최 후 보강 가능.
+DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `papers/DIS26/`에 확보 — 나머지는 개최 후 보강 가능.

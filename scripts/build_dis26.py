@@ -2,7 +2,7 @@ import json,datetime,glob
 F=json.load(open(__import__('os').path.join(__import__('os').path.dirname(__file__),'final.json')))
 import os as _os; BASE=_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
 DIS=[r for r in F['DIS']]
-def has_pdf(code): return bool(glob.glob(f"{BASE}/DIS26/{code}_*.pdf"))
+def has_pdf(code): return bool(glob.glob(f"{BASE}/papers/DIS26/{code}_*.pdf"))
 def plink(i): return f"https://programs.sigchi.org/dis/2026/program/content/{i}"
 WD={0:'월',1:'화',2:'수',3:'목',4:'금',5:'토',6:'일'}
 def when(r):
@@ -49,7 +49,7 @@ o.append("> **ACM Designing Interactive Systems Conference 2026** · Singapore (
 o.append("> 출처: https://programs.sigchi.org/dis/2026\n")
 o.append("## 0. 이 정리의 관점 — 인터넷은행 AX팀\n")
 o.append("> 통합 신규 인터페이스(Orchestration)·Agentic AI를 만드는 입장에서, **(Ⅰ) 통합/에이전트 인터페이스 · (Ⅱ) AI 페르소나(정체성 설계 + 합성 페르소나) · (Ⅲ) Agentic 금융서비스 고객 행동 · (Ⅳ) 인터페이스로 사기·기만 방어** 4갈래(연관성 기준 병합)로 DIS 논문을 정리한다.")
-o.append("> 표기: 🇰🇷 한국 기관 저자 · 📄 PDF 확보(`DIS26/`) · 🔗 공식 프로그램(논문집은 학회 후 ACM DL 공개)\n")
+o.append("> 표기: 🇰🇷 한국 기관 저자 · 📄 PDF 확보(`papers/DIS26/`) · 🔗 공식 프로그램(논문집은 학회 후 ACM DL 공개)\n")
 o.append("## 1. 학회 일정 골격\n")
 o.append("| 날짜 | 내용 |\n|---|---|")
 o.append("| 6/13(토)–14(일) | 워크숍 · Doctoral Consortium · (14일 18:00 Welcome Reception) |")
@@ -82,7 +82,7 @@ for dk in sorted(days):
             if r.get('arxiv'): links.append(f"[arXiv](https://arxiv.org/abs/{r['arxiv'].split('v')[0]})")
             o.append(f"- `{r['code']}` {code2theme.get(r['code'],'')} {flags} **{r['title']}**")
             o.append(f"  - {DESC[r['code']]}")
-            o.append(f"  - 🔗 {' · '.join(links)}" + (f" · 📄 `DIS26/{r['code']}_*.pdf`" if pdf else " · ⏳ 학회 후 ACM DL"))
+            o.append(f"  - 🔗 {' · '.join(links)}" + (f" · 📄 `papers/DIS26/{r['code']}_*.pdf`" if pdf else " · ⏳ 학회 후 ACM DL"))
         o.append("")
 o.append("## 3. 소주제 색인\n")
 for title,sub,codes in GROUPS:
@@ -120,6 +120,6 @@ for r in DIS:
 for w,ti,inst,em in KR: o.append(f"| {w} | {ti} | {inst} | {em} |")
 o.append("\n🔗 굵은 `DISxx`는 추천 17편 포함. 이메일 출처: KAIST/UNIST/Yonsei/Hanyang/Hongik/SeoulTech 공개 교수·연구실 페이지, IntentFlow는 arXiv PDF.\n")
 o.append("## 5. PDF 안내\n")
-o.append("DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `DIS26/`에 확보 — 나머지는 개최 후 보강 가능.\n")
+o.append("DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `papers/DIS26/`에 확보 — 나머지는 개최 후 보강 가능.\n")
 open(f"{BASE}/DIS26_PLANNING.md",'w').write("\n".join(o))
 print("DIS26_PLANNING.md written ·", sum(has_pdf(r['code']) for r in DIS),"/15 PDF")
