@@ -1,0 +1,1836 @@
+{
+ "DIS": [
+  {
+   "id": 257037,
+   "title": "A Hybrid GUI-LLM Interface Paradigm for 3D Scene Customisation",
+   "type": "Papers",
+   "session": "AI-Augmented Creative Interfaces",
+   "room": "LT 50 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-15T11:00:00+00:00",
+   "end": "2026-06-15T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Isaac Valadez",
+     "i": "Vrije Universiteit Brussel",
+     "c": "Belgium"
+    },
+    {
+     "n": "Irving Avina",
+     "i": "Mad Monkeys",
+     "c": "Canada"
+    },
+    {
+     "n": "Beat Signer",
+     "i": "Vrije Universiteit Brussel",
+     "c": "Belgium"
+    }
+   ],
+   "korean": false,
+   "code": "DIS01",
+   "group": "I",
+   "arxiv": null
+  },
+  {
+   "id": 257198,
+   "title": "When Systems Take Initiative: A Design Framework for Adaptive, Mixed-initiative Database Querying",
+   "type": "Papers",
+   "session": "Agency and Explanation in AI Systems",
+   "room": "Auditorium 1 (Town Plaza Lv1)",
+   "start": "2026-06-15T16:10:00+00:00",
+   "end": "2026-06-15T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "Longfei Chen",
+     "i": "ShanghaiTech University",
+     "c": "China"
+    },
+    {
+     "n": "Shenghan Gao",
+     "i": "ShanghaiTech University",
+     "c": "China"
+    },
+    {
+     "n": "Shiwei Wang",
+     "i": "huolala",
+     "c": "China"
+    },
+    {
+     "n": "Ken Lin",
+     "i": "Huolala",
+     "c": "China"
+    },
+    {
+     "n": "Yun Wang",
+     "i": "Microsoft Research",
+     "c": "China"
+    },
+    {
+     "n": "Yan Lu",
+     "i": "Microsoft Research Asia",
+     "c": "China"
+    },
+    {
+     "n": "Quan Li",
+     "i": "ShanghaiTech University",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "code": "DIS02",
+   "group": "I",
+   "arxiv": null
+  },
+  {
+   "id": 257119,
+   "title": "Exploring Fairy Cursor as a Form of AI Agent for In-the-Flow Assistance: Design Opportunities and Challenges",
+   "type": "Papers",
+   "session": "Agency and Explanation in AI Systems",
+   "room": "Auditorium 1 (Town Plaza Lv1)",
+   "start": "2026-06-15T16:10:00+00:00",
+   "end": "2026-06-15T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "Yining Cao",
+     "i": "University of California, San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "James Hollan",
+     "i": "UC San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "Haijun Xia",
+     "i": "University of California, San Diego",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "DIS03",
+   "group": "I",
+   "arxiv": null
+  },
+  {
+   "id": 257035,
+   "title": "IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI",
+   "type": "Papers",
+   "session": "Robots, LLMs, and Intent",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-17T09:00:00+00:00",
+   "end": "2026-06-17T10:30:00+00:00",
+   "authors": [
+    {
+     "n": "Yoonsu Kim",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Kihoon Son",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Seoyoung Kim",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Brandon Chin",
+     "i": "University of California Berkeley",
+     "c": "United States"
+    },
+    {
+     "n": "Juho Kim",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "code": "DIS04",
+   "group": "I",
+   "arxiv": "2507.22134v4"
+  },
+  {
+   "id": 257236,
+   "title": "Who Did What? Designing Avatars for Explainable Multi-Agent Systems in Knowledge Work",
+   "type": "Papers",
+   "session": "Agency and Explanation in AI Systems",
+   "room": "Auditorium 1 (Town Plaza Lv1)",
+   "start": "2026-06-15T16:10:00+00:00",
+   "end": "2026-06-15T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "Simon Rapp",
+     "i": "WIN",
+     "c": "Germany"
+    },
+    {
+     "n": "Martin Feick",
+     "i": "Karlsruhe Institute of Technology (KIT)",
+     "c": "Germany"
+    },
+    {
+     "n": "Marcus Jainta",
+     "i": "EnBW AG",
+     "c": "Germany"
+    },
+    {
+     "n": "Alexander Maedche",
+     "i": "Karlsruhe Institute of Technology (KIT)",
+     "c": "Germany"
+    }
+   ],
+   "korean": false,
+   "code": "DIS05",
+   "group": "I",
+   "arxiv": null
+  },
+  {
+   "id": 257127,
+   "title": "MindStock: Investigating How Principle-Anchored Feedback Supports Self-Reflection in Mobile Investment",
+   "type": "Papers",
+   "session": "Aging, Culture, and Domestic Technology",
+   "room": "Auditorium 1 (Town Plaza Lv1)",
+   "start": "2026-06-16T16:10:00+00:00",
+   "end": "2026-06-16T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "Sooyohn Nam",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Yeohyun Jung",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Kyuwon Cho",
+     "i": "UNIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Hyunseung Lim",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Hwajung Hong",
+     "i": "KAIST",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "code": "DIS06",
+   "group": "II",
+   "arxiv": null
+  },
+  {
+   "id": 257161,
+   "title": "Who Gets Left Out of Digital Banking in Later Life? Barriers and Opportunitiesin Hong Kong's Silver Population",
+   "type": "Papers",
+   "session": "Aging, Culture, and Domestic Technology",
+   "room": "Auditorium 1 (Town Plaza Lv1)",
+   "start": "2026-06-16T16:10:00+00:00",
+   "end": "2026-06-16T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "Clarence Cheung",
+     "i": "Hong Kong University of Science and Technology",
+     "c": "China"
+    },
+    {
+     "n": "Jianan Liu",
+     "i": "Hong Kong Polytechnic University",
+     "c": "China"
+    },
+    {
+     "n": "Lulin Chen",
+     "i": "Hong Kong Polytechnic University",
+     "c": "China"
+    },
+    {
+     "n": "Qiongyan Chen",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Luchen Li",
+     "i": "Carnegie Mellon",
+     "c": "United States"
+    },
+    {
+     "n": "Pan Hui",
+     "i": "The Hong Kong University of Science and Technology",
+     "c": "China"
+    },
+    {
+     "n": "Lik-Hang Lee",
+     "i": "Hong Kong Polytechnic University",
+     "c": "Hong Kong"
+    },
+    {
+     "n": "Mingming Fan",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "code": "DIS07",
+   "group": "II",
+   "arxiv": null
+  },
+  {
+   "id": 257147,
+   "title": "Bonik Somiti: A Social-market Tool for Safe, Accountable, and Harmonious Informal E-Market Ecosystem in Bangladesh",
+   "type": "Papers",
+   "session": "AI, Civic Participation, and Journalism",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-15T16:10:00+00:00",
+   "end": "2026-06-15T17:40:00+00:00",
+   "authors": [
+    {
+     "n": "A.T.M Mizanur Rahman",
+     "i": "University of Illinois Urbana-Champaign",
+     "c": "United States"
+    },
+    {
+     "n": "Sharifa Sultana",
+     "i": "University of Illinois Urbana-Champaign",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "DIS08",
+   "group": "II",
+   "arxiv": "2602.12650v1"
+  },
+  {
+   "id": 257068,
+   "title": "Is it Dark? Understanding Dark Pattern Influence through User Behavioral Strategies and Interpretations in Livestream E-commerce",
+   "type": "Papers",
+   "session": "Power, Privacy, and Participation",
+   "room": "Auditorium 2 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-17T09:00:00+00:00",
+   "end": "2026-06-17T10:30:00+00:00",
+   "authors": [
+    {
+     "n": "Yue Qin",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Tengjia Zuo",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Chen Liang",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "code": "DIS09",
+   "group": "III",
+   "arxiv": null
+  },
+  {
+   "id": 257053,
+   "title": "Revealed or Reinforced: How Assistive Technologies Shape the Experience with Dark Patterns for Blind and Low-Vision Users",
+   "type": "Papers",
+   "session": "Accessibility Across Vision and Print",
+   "room": "LT 50 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-17T11:00:00+00:00",
+   "end": "2026-06-17T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Agata Stanczyk",
+     "i": "Ruhr University Bochum",
+     "c": "Germany"
+    },
+    {
+     "n": "Mindy Tran",
+     "i": "Max Planck Institute for Security and Privacy",
+     "c": "Germany"
+    },
+    {
+     "n": "Tarini Saka",
+     "i": "Max Planck Institute for Security and Privacy",
+     "c": "Germany"
+    },
+    {
+     "n": "Yixin Zou",
+     "i": "Max Planck Institute for Security and Privacy",
+     "c": "Germany"
+    },
+    {
+     "n": "Veelasha Moonsamy",
+     "i": "Ruhr University Bochum",
+     "c": "Germany"
+    }
+   ],
+   "korean": false,
+   "code": "DIS10",
+   "group": "III",
+   "arxiv": null
+  },
+  {
+   "id": 257114,
+   "title": "Rushed by Discomfort, Trapped by Immersion: Users’ Experiences and Responses to Privacy Deceptive Design in Commercial VR Applications ",
+   "type": "Papers",
+   "session": "Intimate Data, Consent, and Harm",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-15T11:00:00+00:00",
+   "end": "2026-06-15T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Hilda Hadan",
+     "i": "University of Waterloo",
+     "c": "Canada"
+    },
+    {
+     "n": "Michaela Valiquette",
+     "i": "Carleton University ",
+     "c": "Canada"
+    },
+    {
+     "n": "Lennart Nacke",
+     "i": "University of Waterloo",
+     "c": "Canada"
+    },
+    {
+     "n": "Leah Zhang-Kennedy",
+     "i": "University of Waterloo",
+     "c": "Canada"
+    }
+   ],
+   "korean": false,
+   "code": "DIS11",
+   "group": "III",
+   "arxiv": null
+  },
+  {
+   "id": 257253,
+   "title": "Understanding Down Syndrome Stereotypes in LLM-Based Personas",
+   "type": "Papers",
+   "session": "LLMs for Learning and Neurodiversity",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-16T11:00:00+00:00",
+   "end": "2026-06-16T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Chantelle Wu",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Mengxu Pan",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Peinan Wang",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Nafi Nibras",
+     "i": "Northeastern University ",
+     "c": "Canada"
+    },
+    {
+     "n": "Meida Li",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Dajun Yuan",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Zhixiao Wang",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Jiahuan He",
+     "i": "Northeastern University",
+     "c": "Canada"
+    },
+    {
+     "n": "Mona Ali",
+     "i": "Suez Canal University",
+     "c": "Canada"
+    },
+    {
+     "n": "Mirjana Prpa",
+     "i": "Northeastern University",
+     "c": "Canada"
+    }
+   ],
+   "korean": false,
+   "code": "DIS12",
+   "group": "IV",
+   "arxiv": "2512.02275v1"
+  },
+  {
+   "id": 257240,
+   "title": "StreetDesignAI: Broadening Designer Perspectives Through Multi-Persona Evaluation of Cycling Infrastructure",
+   "type": "Papers",
+   "session": "Designing AI Concepts and Values",
+   "room": "LT 51 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-15T11:00:00+00:00",
+   "end": "2026-06-15T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Ziyi Wang",
+     "i": "University of Maryland, College Park",
+     "c": "United States"
+    },
+    {
+     "n": "Yilong Dai",
+     "i": "the University of Alabama",
+     "c": "United States"
+    },
+    {
+     "n": "DUANYA LYU",
+     "i": "University of Florida",
+     "c": "United States"
+    },
+    {
+     "n": "Mateo Nader",
+     "i": "University of Florida",
+     "c": "United States"
+    },
+    {
+     "n": "Sihan Chen",
+     "i": "carnegie mellon university",
+     "c": "United States"
+    },
+    {
+     "n": "Wanghao Ye",
+     "i": "the University of Maryland, College Park ",
+     "c": "United States"
+    },
+    {
+     "n": "Zijian Ding",
+     "i": "University of Maryland",
+     "c": "United States"
+    },
+    {
+     "n": "Xiang Yan",
+     "i": "University of Florida",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "DIS13",
+   "group": "IV",
+   "arxiv": null
+  },
+  {
+   "id": 257081,
+   "title": "PrivacyMotiv: Vulnerability-Centered Persona Journeys for Empathic Privacy Reviews in UX Design",
+   "type": "Papers",
+   "session": "Designing AI Concepts and Values",
+   "room": "LT 51 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-15T11:00:00+00:00",
+   "end": "2026-06-15T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Zeya Chen",
+     "i": "Northeastern Univeristy",
+     "c": "United States"
+    },
+    {
+     "n": "Jianing Wen",
+     "i": "Northeastern University",
+     "c": "United States"
+    },
+    {
+     "n": "Yaxing Yao",
+     "i": "Johns Hopkins University ",
+     "c": "United States"
+    },
+    {
+     "n": "Toby Li",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    },
+    {
+     "n": "Tianshi Li",
+     "i": "Northeastern University",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "DIS14",
+   "group": "IV",
+   "arxiv": null
+  },
+  {
+   "id": 257070,
+   "title": "ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas",
+   "type": "Papers",
+   "session": "LLMs for Learning and Neurodiversity",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-16T11:00:00+00:00",
+   "end": "2026-06-16T12:30:00+00:00",
+   "authors": [
+    {
+     "n": "Shiwei Wu",
+     "i": "Sun Yat-sen University",
+     "c": "China"
+    },
+    {
+     "n": "Xinyue Chen",
+     "i": "Sun Yat-sen University",
+     "c": "China"
+    },
+    {
+     "n": "Yuheng Liu",
+     "i": "Sun Yat-sen University",
+     "c": "China"
+    },
+    {
+     "n": "Xingbo Wang",
+     "i": "Bosch Research North America & Bosch Center for Artificial Intelligence (BCAI)",
+     "c": "United States"
+    },
+    {
+     "n": "Qingyu Guo",
+     "i": "Hong Kong University of Science and Technology",
+     "c": "China"
+    },
+    {
+     "n": "Longfei Chen",
+     "i": "ShanghaiTech University",
+     "c": "China"
+    },
+    {
+     "n": "Chuhan Shi",
+     "i": "Southeast University",
+     "c": "China"
+    },
+    {
+     "n": "Zhenhui Peng",
+     "i": "Sun Yat-sen University",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "code": "DIS15",
+   "group": "IV",
+   "arxiv": "2603.19747v2"
+  },
+  {
+   "id": 257056,
+   "title": "Designing Artificial Identity: The Identity Design Framework and Research Agenda",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Karla Bransky",
+     "i": "The Australian National University",
+     "c": "Australia"
+    },
+    {
+     "n": "Penny Sweetser",
+     "i": "The Australian National University",
+     "c": "Australia"
+    },
+    {
+     "n": "Patrick Holthaus",
+     "i": "University of Hertfordshire",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Guy Laban",
+     "i": "Ben-Gurion University of the Negev",
+     "c": "Israel"
+    },
+    {
+     "n": "Katie Winkle",
+     "i": "Uppsala University",
+     "c": "Sweden"
+    },
+    {
+     "n": "Neziha Akalin",
+     "i": "Jönköping University",
+     "c": "Sweden"
+    },
+    {
+     "n": "Ashita Ashok",
+     "i": "University of Kaiserslautern-Landau",
+     "c": "Germany"
+    },
+    {
+     "n": "Jihye Lee",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Rucha Khot",
+     "i": "Eindhoven University of Technology",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Alexandra Bejarano",
+     "i": "Virginia Tech",
+     "c": "United States"
+    },
+    {
+     "n": "Jorrit Thijn",
+     "i": "University of the Arts",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Roger Moore",
+     "i": "University of Sheffield",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Minsu Jang",
+     "i": "Electronics and Telecommunications Research Institute",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Joel Fischer",
+     "i": "University of Nottingham",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Minha Lee",
+     "i": "Eindhoven University of Technology",
+     "c": "Netherlands"
+    }
+   ],
+   "korean": true,
+   "session": "Robots in Social and Professional Roles",
+   "room": "LT 52 (Stephen Riady Centre Lv2)",
+   "start": "2026-06-17T11:00:00+00:00",
+   "end": "2026-06-17T12:30:00+00:00",
+   "code": "DIS16",
+   "group": "V",
+   "arxiv": null
+  },
+  {
+   "id": 257118,
+   "title": "Designing Character-Bound In-Public Companions: Interactional Insights from ACG Practices",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Yijie Guo",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Ruhan Wang",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Yuan-Ling Feng",
+     "i": "Sichuan Fine Arts Institute",
+     "c": "China"
+    },
+    {
+     "n": "Jini Tao",
+     "i": "Tongji University",
+     "c": "China"
+    },
+    {
+     "n": "Zhiling Xu",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "yaowen shen",
+     "i": "Neurobo",
+     "c": "China"
+    },
+    {
+     "n": "Qifei Zhou",
+     "i": "Neurobo",
+     "c": "China"
+    },
+    {
+     "n": "Xin Fu",
+     "i": "Neurobo",
+     "c": "China"
+    },
+    {
+     "n": "Zhihao Yao",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Zhenhan Huang",
+     "i": "Neurobo",
+     "c": "China"
+    },
+    {
+     "n": "Haipeng Mi",
+     "i": "Tsinghua University",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "session": "Social XR and Virtual Companionship",
+   "room": "LT 51 (Stephen Riady Centre Lv1)",
+   "start": "2026-06-16T11:00:00+00:00",
+   "end": "2026-06-16T12:30:00+00:00",
+   "code": "DIS17",
+   "group": "V",
+   "arxiv": null
+  }
+ ],
+ "CHI": [
+  {
+   "id": 221999,
+   "title": "Bridging Gulfs in UI Generation through Semantic Guidance",
+   "abstract": "While generative AI enables high-fidelity UI generation from text prompts, users struggle to articulate design intent and evaluate or refine results—creating gulfs of execution and evaluation. To understand the information needed for UI generation, we conducted a thematic analysis of UI prompting guidelines, identifying key design semantics and discovering that they are hierarchical and interdependent. Leveraging these findings, we developed a system that enables users to specify semantics, visualize relationships, and extract how semantics are reflected in generated UIs. By making semantics serve as an intermediate representation between human intent and AI output, our system bridges both gulfs by making requirements explicit and outcomes interpretable. A comparative user study suggests that our approach enhances users' perceived control over intent expression and outcome interpretation, and facilitates more predictable iterative refinement. Our work demonstrates how explicit semantic representation enables systematic and explainable exploration of design possibilities in AI-driven UI design.",
+   "type": "Papers",
+   "session": "Interactive Prompting, Chaining, and LLM Orchestration Tools",
+   "room": "P1 - Room 132",
+   "start": "2026-04-13T11:15:00+00:00",
+   "end": "2026-04-13T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Seokhyeon Park",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Soohyun Lee",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Eugene Choi",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Hyunwoo Kim",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Minkyu Kweon",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Yumin Song",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Jinwook Seo",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "code": "CHI01",
+   "doi": "10.1145/3772318.3791966"
+  },
+  {
+   "id": 222135,
+   "title": "Deception at Scale: Deceptive Designs in 1K LLM-Generated E-Commerce Components",
+   "abstract": "Recent work has shown that front-end code generated by Large Language Models (LLMs) can embed deceptive designs. To assess the magnitude of this problem, identify the factors that influence deceptive design production, and test strategies for reducing deceptive designs, we carried out two studies which generated and analyzed 1,296 LLM-generated web components, along with a design rationale for each. The first study tested four LLMs for 15 common ecommerce components. Overall 55.8% of components contained at least one deceptive design, and 30.6% contained two or more. Occurence varied significantly across models, with DeepSeek-V3 producing the fewest. Interface interference emerged as the dominant strategy, using color psychology to influence actions and hiding essential information. The first study found that prompts emphasizing business interests (e.g., increasing sales) significantly increased deceptive designs, so a second study tested a variety of prompting strategies to reduce their frequency, finding a values-centered approach the most effective. Our findings highlight risks in using LLMs for coding and offer recommendations for LLM developers and providers.",
+   "type": "Papers",
+   "session": "Ethics, Inclusion & Algorithmic Impact",
+   "room": "P1 - Room 125",
+   "start": "2026-04-16T11:15:00+00:00",
+   "end": "2026-04-16T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Ziwei Chen",
+     "i": "University of California San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "Jiawen Shen",
+     "i": "University of California San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "Luna ‎",
+     "i": "UC San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "Hanyu Zhang",
+     "i": "University of California San Diego",
+     "c": "United States"
+    },
+    {
+     "n": "Kristen Vaccaro",
+     "i": "University of California San Diego",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "CHI02",
+   "doi": "10.1145/3772318.3791063"
+  },
+  {
+   "id": 223525,
+   "title": "Fit Matters: Format–Distance Alignment Improves Conversational Search",
+   "abstract": "Existing conversational search systems can synthesize information into responses, but they lack principled ways to adapt response formats to users' cognitive states. This paper investigates whether aligning format and distance, which involves matching information granularity and media to users' psychological distance, improves user experience. In a between-subjects experiment (N=464) on travel planning, we crossed two distance dimensions (temporal/spatial × near/far) with four formats varying in granularity (abstract/concrete) and media (text/image-and-text). The experiment established that format-distance alignment reduced users' risk perceptions while increasing decision confidence, perceptions of information usefulness, ease of use, enjoyment, and credibility, and adoption intentions. Concrete formats imposed higher cognitive load, but yielded productive effort when matched to near-distance tasks. Images enhanced concrete but not abstract text, suggesting multimedia benefits depend on complementarity. These findings establish format-distance alignment as a distinctive and important design dimension, enabling systems to tailor response formats to users' psychological distance.",
+   "type": "Papers",
+   "session": "Mental Health Chatbots and Conversational Agents",
+   "room": "Auditorium",
+   "start": "2026-04-14T11:15:00+00:00",
+   "end": "2026-04-14T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Yitian Yang",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Yugin Tan",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Jung-Tai King",
+     "i": "National Dong Hwa University",
+     "c": "Taiwan"
+    },
+    {
+     "n": "Yang Chen Lin",
+     "i": "National Tsing Hua University ",
+     "c": "Taiwan"
+    },
+    {
+     "n": "YI-CHIEH LEE",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    }
+   ],
+   "korean": false,
+   "code": "CHI03",
+   "doi": "10.1145/3772318.3790317"
+  },
+  {
+   "id": 222393,
+   "title": "Rethinking User Empowerment in AI Recommender System: Innovating Transparent and Controllable Interfaces",
+   "abstract": "AI-driven recommender systems are often perceived as personalization black boxes, limiting users’ ability to understand how their data shapes content (information asymmetry) or to influence system behavior meaningfully (power asymmetry). This study explores how design can strengthen user agency by integrating transparency with actionable control. We developed a provotype that introduces new interface features for managing data use, discovering varied content, and configuring context-based recommending modes. The walkthroughs and interviews with 19 participants show how these features help users interpret personalization signals, understand how their actions influence outcomes, address concerns from unwanted inference to narrow feeds (e.g., filter bubbles), and build trust in the system. We also identify strategies for promoting adoption and awareness of agency-enhancing features. Overall, our findings reaffirm users’ desire for active influence over personalization and contribute concrete interface mechanisms with empirical insights for designing recommender systems that foreground user autonomy and fairness in AI-driven content delivery.",
+   "type": "Papers",
+   "session": "Personalization and Human-AI Alignment",
+   "room": "P1 - Room 130",
+   "start": "2026-04-14T09:00:00+00:00",
+   "end": "2026-04-14T10:30:00+00:00",
+   "authors": [
+    {
+     "n": "Mengke Wu",
+     "i": "University of Illinois Urbana-Champaign",
+     "c": "United States"
+    },
+    {
+     "n": "Weizi Liu",
+     "i": "Texas Christian University",
+     "c": "United States"
+    },
+    {
+     "n": "Yanyun Wang",
+     "i": "University of Colorado Boulder",
+     "c": "United States"
+    },
+    {
+     "n": "Weiyu Ding",
+     "i": "University of Colorado Boulder",
+     "c": "United States"
+    },
+    {
+     "n": "Mike Yao",
+     "i": "University of Illinois ",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "CHI04",
+   "doi": "10.1145/3772318.3791914"
+  },
+  {
+   "id": 222898,
+   "title": "Interaction Methods in Generative AI Image Tools: A Review of Trends and Design Opportunities Across HCI and Industry",
+   "abstract": "Generative AI (GenAI) image tools are increasingly integrated into design workflows, prompting HCI research on their interaction methods and interfaces. We reviewed 37 such tools, including 28 HCI research systems and nine commercial systems (2022--July 2025), using three analytical frameworks: interaction methods, creative processes, and tool functionalities. We found that text prompts remain the dominant input method, while visual and attribute-based inputs---particularly in academic tools---are gaining traction and are often combined with text for refinement. Commercial systems emphasize parameter control, whereas academic tools focus on semantic attributes and visual organization. Most tools support ideation and exploration, but provide limited support for refinement and evaluation. Based on these findings, we identify nine design opportunities, including advanced visual interaction, simplified parameter control, precision editing, direct manipulation, workflow integration, default settings that support rapid exploration, and user guidance for later stages. We contribute a framework for analyzing GenAI interfaces and actionable directions for designing more usable, creativity-supportive GenAI image systems.",
+   "type": "Papers",
+   "session": "LLM Interactions and Generative AI Mechanics",
+   "room": "P1 - Room 124",
+   "start": "2026-04-14T11:15:00+00:00",
+   "end": "2026-04-14T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Hyerim Park",
+     "i": "University of Stuttgart",
+     "c": "Germany"
+    },
+    {
+     "n": "Malin Eiband",
+     "i": "BMW Group",
+     "c": "Germany"
+    },
+    {
+     "n": "Andre Luckow",
+     "i": "BMW Group",
+     "c": "Germany"
+    },
+    {
+     "n": "Michael Sedlmair",
+     "i": "University of Stuttgart",
+     "c": "Germany"
+    }
+   ],
+   "korean": false,
+   "code": "CHI05",
+   "doi": "10.1145/3772318.3790307"
+  },
+  {
+   "id": 222277,
+   "title": "Behavioral Indicators of Overreliance During Interaction with Conversational Language Models",
+   "abstract": "LLMs are now embedded in a wide range of everyday scenarios. However, their inherent hallucinations risk hiding misinformation in fluent responses, raising concerns about overreliance on AI. Detecting overreliance is challenging, as it often arises in complex, dynamic contexts and cannot be easily captured by post-hoc task outcomes. In this work, we aim to investigate how users' behavioral patterns correlate with overreliance. We collected interaction logs from 77 participants working with an LLM injected plausible misinformation across three real-world tasks and we assessed overreliance by whether participants detected and corrected these errors. By semantically encoding and clustering segments of user interactions, we identified five behavioral patterns linked to overreliance: users with low overreliance show careful task comprehension and fine-grained navigation; users with high overreliance show frequent copy-paste, skipping initial comprehension, repeated LLM references, coarse locating, and accepting misinformation despite hesitation. We discuss design implications for mitigation.",
+   "type": "Papers",
+   "session": "Human Behavior with AI Systems",
+   "room": "M2 - Room M211/212",
+   "start": "2026-04-14T11:15:00+00:00",
+   "end": "2026-04-14T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Chang Liu",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Qinyi Zhou",
+     "i": "Hong Kong University of Science and Technology",
+     "c": "China"
+    },
+    {
+     "n": "Xinjie Shen",
+     "i": "Georgia Institute of Technology ",
+     "c": "United States"
+    },
+    {
+     "n": "Xingyu Liu",
+     "i": "UCLA",
+     "c": "United States"
+    },
+    {
+     "n": "Tongshuang Wu",
+     "i": "Carnegie Mellon University",
+     "c": "United States"
+    },
+    {
+     "n": "Xiang 'Anthony' Chen",
+     "i": "UCLA",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "CHI06",
+   "doi": "10.1145/3772318.3790332"
+  },
+  {
+   "id": 222215,
+   "title": "Do People Appropriately Rely on AI-Advice? An Analytical Review of HCI Research on Human-AI Decision-Making",
+   "abstract": "AI systems are increasingly being positioned to assist people in decision-making. However, recent empirical studies show critical concerns that people over-rely on AI advice without analytically engaging with it. While HCI research explores how people rely on AI advice, we argue that it largely overlooks an important aspect: replicating realistic decision-making scenarios. Human-AI interaction factors influence people's reliance on AI advice. To understand human-AI interaction factors and their interplay, we conducted an analytical review of recent studies in human-AI reliance literature. We analyzed the decision-making tasks in research and their validity in application-grounded contexts. Our findings show that user engagement is a precious commodity for relying on AI advice; however, it comes at a cost. We also discuss factors contributing to “appropriate reliance”, existing research gaps, and recommendations for intervention design for human-AI reliance. Our work contributes to the critical body of research on building appropriate reliance on AI advice.",
+   "type": "Papers",
+   "session": "Human-AI Decision Making",
+   "room": "P1 - Room 134",
+   "start": "2026-04-14T11:15:00+00:00",
+   "end": "2026-04-14T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Muhammad Raees",
+     "i": "Rochester Institute of Technology",
+     "c": "United States"
+    },
+    {
+     "n": "Vassilis-Javed Khan",
+     "i": "independent",
+     "c": "Belgium"
+    },
+    {
+     "n": "Ioanna Lykourentzou",
+     "i": "Utrecht University",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Konstantinos Papangelis",
+     "i": "Rochester Institute of Technology",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "code": "CHI07",
+   "doi": "10.1145/3772318.3791467"
+  },
+  {
+   "id": 223288,
+   "title": "Understanding Spatiotemporal-Aware Multimodal Conversational Search in the Outdoor Urban Space",
+   "abstract": "Emerging multimodal conversational search (MCS) tools (e.g., Gemini Live) allow users to search for spatiotemporal information through natural language dialogues as they move through urban space. Despite the growing popularity of these tools, there is limited understanding of how people engage with this technology. To address this gap, we developed UrbanSearch, an MCS technology probe designed to capture the user's current geolocation, time, and visual surroundings. A contextual inquiry (N=23) revealed that MCS tools provide two core values: requiring low effort in forming queries while offering highly relevant responses, and functioning as a central information gateway. As a promising technology, MCS supports environmental learning, in-situ decision making, and personalized navigation. Participants also revealed unmet needs for spatial reasoning and transparent integration of multi-source information, along with concerns related to peripheral awareness, social context, and personal space. Drawing from the findings, we discuss design implications for future MCS tools in urban spaces.",
+   "type": "Papers",
+   "session": "Mixed-Reality Systems for Spatial Understanding and Navigation",
+   "room": "P1 - Room 128",
+   "start": "2026-04-17T09:00:00+00:00",
+   "end": "2026-04-17T10:30:00+00:00",
+   "authors": [
+    {
+     "n": "Jiangnan Xu",
+     "i": "Rochester Institute of Technology",
+     "c": "United States"
+    },
+    {
+     "n": "Suyeon Seo",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Joni Salminen",
+     "i": "University of Vaasa",
+     "c": "Finland"
+    },
+    {
+     "n": "Michael Saker",
+     "i": "City University London",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Joongi Shin",
+     "i": "Aalto University",
+     "c": "Finland"
+    },
+    {
+     "n": "Alan Chamberlain",
+     "i": "University of Nottingham",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Konstantinos Papangelis",
+     "i": "Rochester Institute of Technology",
+     "c": "United States"
+    },
+    {
+     "n": "Dae Hyun Kim",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "code": "CHI08",
+   "doi": "10.1145/3772318.3790541"
+  },
+  {
+   "id": 222948,
+   "title": "BuyMate: Making AI Interventions Effective in Promoting Rational Consumption in Live Commerce",
+   "abstract": "Live commerce platforms frequently employ algorithmic recommendations and time-limited promotions to trigger impulsive purchases, challenging rational consumer decision-making. While existing research has identified manipulative design patterns in live commerce, significant gaps remain in understanding consumer psychological motivations and developing counter-persuasion interventions.\r\n\r\nWe conducted a multi-stage formative study involving surveys (N = 116), interviews (N = 21), and co-design workshops (N = 16) to explore user preferences for rational consumption support systems. Informed by these insights, we designed BuyMate, which provides gentle, real-time rational interventions through product comparison and persuasive speech reframing.\r\n\r\nA user evaluation (N = 35) demonstrates that the system effectively reduces impulsive purchases, enhances decision autonomy, and promotes sustainable consumption. This work contributes an AI-driven counter-persuasion approach, identifies user-centered principles for adaptive interventions, and offers practical guidance for responsible AI in digital commerce.",
+   "type": "Papers",
+   "session": "Responsible AI, Policy, & Dark Patterns",
+   "room": "Area 1 + 2 + 3: theatre",
+   "start": "2026-04-14T09:00:00+00:00",
+   "end": "2026-04-14T10:30:00+00:00",
+   "authors": [
+    {
+     "n": "Shiyi Wang",
+     "i": "Tsinghua university",
+     "c": "China"
+    },
+    {
+     "n": "Yishan Liu",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Zhihang Zhu",
+     "i": " Department of Computer Science and Technology",
+     "c": "China"
+    },
+    {
+     "n": "Jintao Liu",
+     "i": "Xiamen University Malaysia",
+     "c": "Malaysia"
+    },
+    {
+     "n": "Xuerui Ma",
+     "i": "Jilin University",
+     "c": "China"
+    },
+    {
+     "n": "Xin Guan",
+     "i": "Rixin College",
+     "c": "China"
+    },
+    {
+     "n": "Tianyang Feng",
+     "i": "Academy of Art & Design",
+     "c": "China"
+    },
+    {
+     "n": "Qingfei Zhao",
+     "i": "Tsinghua University, Academy of Arts &Design",
+     "c": "China"
+    },
+    {
+     "n": "XinZhi Zhang",
+     "i": "Beihang University ",
+     "c": "China"
+    },
+    {
+     "n": "Yuan Yao",
+     "i": "School of Architecture and Design",
+     "c": "China"
+    },
+    {
+     "n": "Haipeng Mi",
+     "i": "Tsinghua University",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "code": "CHI09",
+   "doi": "10.1145/3772318.3790928"
+  },
+  {
+   "id": 222606,
+   "title": "The Bots of Persuasion: Examining How Conversational Agents' Linguistic Expressions of Personality Affect User Perceptions and Decisions",
+   "abstract": "Large Language Model-powered conversational agents (CAs) are increasingly capable of projecting sophisticated personalities through language, but how these projections affect users is unclear. We thus examine how CA personalities expressed linguistically affect user decisions and perceptions in the context of charitable giving. In a crowdsourced study, 360 participants interacted with one of eight CAs, each projecting a personality composed of three linguistic aspects: attitude (optimistic/pessimistic), authority (authoritative/submissive), and reasoning (emotional/rational). While the CA's composite personality did not affect participants' decisions, it did affect their perceptions and emotional responses. Particularly, participants interacting with pessimistic CAs felt lower emotional state and lower affinity towards the cause, perceived the CA as less trustworthy and less competent, and yet tended to donate more toward the charity. Perceptions of trust, competence, and situational empathy significantly predicted donation decisions. Our findings emphasize the risks CAs pose as instruments of manipulation, subtly influencing user perceptions and decisions.",
+   "type": "Papers",
+   "session": "Human Behavior with AI Systems",
+   "room": "M2 - Room M211/212",
+   "start": "2026-04-14T11:15:00+00:00",
+   "end": "2026-04-14T12:45:00+00:00",
+   "authors": [
+    {
+     "n": "Hüseyin Uğur Genç",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Heng Gu",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Chadha Degachi",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Evangelos Niforatos",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Senthil Chandrasegaran",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    },
+    {
+     "n": "Himanshu Verma",
+     "i": "TU Delft",
+     "c": "Netherlands"
+    }
+   ],
+   "korean": false,
+   "code": "CHI10",
+   "doi": "10.1145/3772318.3791407"
+  },
+  {
+   "id": 222839,
+   "title": "Supporting Money Management among Adults with Down Syndrome: A Multi-Technology Probe Study",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Hailey Johnson",
+     "i": "University of Wisconsin",
+     "c": "United States"
+    },
+    {
+     "n": "Heidi Spalitta",
+     "i": "University of Wisconsin-Madison",
+     "c": "United States"
+    },
+    {
+     "n": "Callie Kim",
+     "i": "University of Wisconsin-Madison",
+     "c": "United States"
+    },
+    {
+     "n": "Bilge Mutlu",
+     "i": "University of Wisconsin-Madison",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Co-Design and Collaboration",
+   "code": "CHI11",
+   "doi": "10.1145/3772318.3791299"
+  },
+  {
+   "id": 222844,
+   "title": "Navigating Financial Lives: How Autistic Adults Adapt Financial Technologies, Tools and Strategies",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Helena Lyhme",
+     "i": "City St. Geroge's, University of London",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Belén Barros Pena",
+     "i": "City St George's, University of London",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Stephanie Wilson",
+     "i": "City St George's, University of London",
+     "c": "United Kingdom"
+    }
+   ],
+   "korean": false,
+   "session": "Accessibility in Everyday Life",
+   "code": "CHI12",
+   "doi": "10.1145/3772318.3791131"
+  },
+  {
+   "id": 222102,
+   "title": "Clarifying or Complicating?: Understanding Older Adults' Engagement with Real-World XAI in E-Commerce",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Seo Hyeong Kim",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Esther Hehsun Kim",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Huiyeon Yang",
+     "i": "Seoul National University ",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Joonhwan Lee",
+     "i": "Seoul National University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Hajin Lim",
+     "i": "Seoul National University ",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "session": "Aging and Later Life",
+   "code": "CHI13",
+   "doi": "10.1145/3772318.3791908"
+  },
+  {
+   "id": 222052,
+   "title": "ScamPilot: Simulating Conversations with LLMs to Protect Against Online Scams",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Owen Hoffman",
+     "i": "Swarthmore College",
+     "c": "United States"
+    },
+    {
+     "n": "Kangze Peng",
+     "i": "Swarthmore College",
+     "c": "United States"
+    },
+    {
+     "n": "Sajid Kamal",
+     "i": "Swarthmore College",
+     "c": "United States"
+    },
+    {
+     "n": "Zehua You",
+     "i": "Swarthmore College",
+     "c": "United States"
+    },
+    {
+     "n": "Sukrit Venkatagiri",
+     "i": "Swarthmore College",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Conversational AI, Agency and Control",
+   "code": "CHI14",
+   "doi": "10.1145/3772318.3791313"
+  },
+  {
+   "id": 223183,
+   "title": "Dynamic Compensation Can Enhance User Engagement by Triggering Sensitivity to Financial Losses in Crowd-sourced Studies",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Catalina Gomez",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    },
+    {
+     "n": "Mung Yao Jia",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    },
+    {
+     "n": "Sue Min Cho",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    },
+    {
+     "n": "Chien-Ming Huang",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    },
+    {
+     "n": "Mathias Unberath",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Methodological Foundations",
+   "code": "CHI15",
+   "doi": "10.1145/3772318.3791660"
+  },
+  {
+   "id": 222626,
+   "title": "DuetUI: A Bidirectional Context Loop for Human-Agent Co-Generation of Task-Oriented Interfaces",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Yuan Xu",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Shaowen Xiang",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Yizhi Song",
+     "i": "The Hong Kong University of Science and Technology (GuangZhou)",
+     "c": "China"
+    },
+    {
+     "n": "Ruoting Sun",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    },
+    {
+     "n": "Xin Tong",
+     "i": "The Hong Kong University of Science and Technology (Guangzhou)",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "session": "Collaborative Work Systems",
+   "code": "CHI16",
+   "doi": "10.1145/3772318.3790441"
+  },
+  {
+   "id": 223415,
+   "title": "Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Jingyu Tang",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    },
+    {
+     "n": "Chaoran Chen",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    },
+    {
+     "n": "Jiawen Li",
+     "i": "University of Michigan",
+     "c": "United States"
+    },
+    {
+     "n": "Zhiping Zhang",
+     "i": "Northeastern University",
+     "c": "United States"
+    },
+    {
+     "n": "Bingcan Guo",
+     "i": "University of Washington",
+     "c": "United States"
+    },
+    {
+     "n": "Ibrahim Khalilov",
+     "i": "Johns Hopkins",
+     "c": "United States"
+    },
+    {
+     "n": "Simret Gebreegziabher",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    },
+    {
+     "n": "Bingsheng Yao",
+     "i": "Northeastern University",
+     "c": "United States"
+    },
+    {
+     "n": "Dakuo Wang",
+     "i": "Northeastern University",
+     "c": "United States"
+    },
+    {
+     "n": "Yanfang Ye",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    },
+    {
+     "n": "Tianshi Li",
+     "i": "Northeastern University",
+     "c": "United States"
+    },
+    {
+     "n": "Ziang Xiao",
+     "i": "Johns Hopkins University",
+     "c": "United States"
+    },
+    {
+     "n": "Yaxing Yao",
+     "i": "Johns Hopkins University ",
+     "c": "United States"
+    },
+    {
+     "n": "Toby Li",
+     "i": "University of Notre Dame",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Dark Patterns, Deception, and Manipulative Interfaces",
+   "code": "CHI17",
+   "doi": "10.1145/3772318.3791568"
+  },
+  {
+   "id": 223499,
+   "title": "Improving User Interface Generation Models from Designer Feedback",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Jason Wu",
+     "i": "Apple",
+     "c": "United States"
+    },
+    {
+     "n": "Amanda Swearngin",
+     "i": "Apple",
+     "c": "United States"
+    },
+    {
+     "n": "Arun Krishnavajjala",
+     "i": "George Mason University",
+     "c": "United States"
+    },
+    {
+     "n": "Alan Leung",
+     "i": "Apple",
+     "c": "United States"
+    },
+    {
+     "n": "Jeffrey Nichols",
+     "i": "Apple",
+     "c": "United States"
+    },
+    {
+     "n": "Titus Barik",
+     "i": "Apple",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Personalization and Human-AI Alignment",
+   "code": "CHI18",
+   "doi": "10.1145/3772318.3791567"
+  },
+  {
+   "id": 222463,
+   "title": "Characterizing Unintended Consequences of GUI Agents For Web Browsing",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Shuning Zhang",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Jingruo Chen",
+     "i": "Cornell University",
+     "c": "United States"
+    },
+    {
+     "n": "Zhiqi Gao",
+     "i": "The Chinese University of Hong Kong, Shenzhen",
+     "c": "China"
+    },
+    {
+     "n": "Jiajing Gao",
+     "i": "Institute of Future Human Habitat",
+     "c": "China"
+    },
+    {
+     "n": "Xin Yi",
+     "i": "Tsinghua University",
+     "c": "China"
+    },
+    {
+     "n": "Hewu Li",
+     "i": "Tsinghua University",
+     "c": "China"
+    }
+   ],
+   "korean": false,
+   "session": "Capturing Experience & Generating Meaning",
+   "code": "CHI19",
+   "doi": "10.1145/3772318.3790696"
+  },
+  {
+   "id": 222205,
+   "title": "Toward Independent Online Shopping of the Visually Impaired Through Voice-based Computer-Using Agent",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Subin Shin",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Jeesun Oh",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Suhyun Kim",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Seoyeon Eom",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    },
+    {
+     "n": "Sangwon Lee",
+     "i": "Yonsei University",
+     "c": "Korea, Republic of"
+    }
+   ],
+   "korean": true,
+   "session": "Accessibility in Everyday Life",
+   "code": "CHI20",
+   "doi": "10.1145/3772318.3791681"
+  },
+  {
+   "id": 222319,
+   "title": "Creating and Evaluating Personas Using Generative AI: A Scoping Review of 81 Articles",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Danial Amin",
+     "i": "University of Vaasa",
+     "c": "Finland"
+    },
+    {
+     "n": "Joni Salminen",
+     "i": "University of Vaasa",
+     "c": "Finland"
+    },
+    {
+     "n": "Farhan Ahmed",
+     "i": "University of Vaasa",
+     "c": "Finland"
+    },
+    {
+     "n": "Sonja Tervola",
+     "i": "University of Cambridge",
+     "c": "United Kingdom"
+    },
+    {
+     "n": "Sankalp Sethi",
+     "i": "University of Arizona",
+     "c": "United States"
+    },
+    {
+     "n": "Bernard Jansen",
+     "i": "HBKU",
+     "c": "Qatar"
+    }
+   ],
+   "korean": false,
+   "session": "Design Methods and Frameworks",
+   "code": "CHI21",
+   "doi": "10.1145/3772318.3790608"
+  },
+  {
+   "id": 222738,
+   "title": "Vibe Check: Understanding the Effects of LLM-Based Conversational Agents' Personality and Alignment  on User Perceptions in Goal-Oriented Tasks",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Hasibur Rahman",
+     "i": "Northeastern University ",
+     "c": "United States"
+    },
+    {
+     "n": "Smit Desai",
+     "i": "Northeastern University",
+     "c": "United States"
+    }
+   ],
+   "korean": false,
+   "session": "Conversational AI",
+   "code": "CHI22",
+   "doi": "10.1145/3772318.3790388"
+  },
+  {
+   "id": 222597,
+   "title": "PCGEF: A Framework for Diagnosing Subjective Alignment in Human-Centered Persona-Conditioned Generation",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Kana Maruyama",
+     "i": "Sony AI",
+     "c": "Japan"
+    },
+    {
+     "n": "Tarek Besold",
+     "i": "Sony AI",
+     "c": "Spain"
+    }
+   ],
+   "korean": false,
+   "session": null,
+   "code": "CHI23",
+   "doi": "10.1145/3772318.3791402"
+  },
+  {
+   "id": 222444,
+   "title": "AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "Jingshu Li",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Tianqi Song",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Nattapat Boonprakong",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Zicheng Zhu",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "Yitian Yang",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    },
+    {
+     "n": "YI-CHIEH LEE",
+     "i": "National University of Singapore",
+     "c": "Singapore"
+    }
+   ],
+   "korean": false,
+   "session": "AI & Timing Matters",
+   "code": "CHI24",
+   "doi": "10.1145/3772318.3790654"
+  },
+  {
+   "id": 222460,
+   "title": "\"It Seems to Understand My Heart\": An Empirical Study of Persona-Driven Persuasive AI Agent for Aging-in-Place in Singapore ",
+   "type": "Papers",
+   "authors": [
+    {
+     "n": "BO GAO",
+     "i": "LILY(Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly)",
+     "c": "Singapore"
+    },
+    {
+     "n": "Zhiwei Zeng",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "Yue Yu",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "Iain Werry",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "Chung Leung Chan",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "MING CHEN",
+     "i": "https://www.ntu.edu.sg/lily",
+     "c": "Singapore"
+    },
+    {
+     "n": "Huiguo Zhang",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "Bo Huang",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    },
+    {
+     "n": "jun ji",
+     "i": "ntu",
+     "c": "Singapore"
+    },
+    {
+     "n": "Cyril Leung",
+     "i": "The University of British Columbia",
+     "c": "Canada"
+    },
+    {
+     "n": "Chunyan Miao",
+     "i": "Nanyang Technological University",
+     "c": "Singapore"
+    }
+   ],
+   "korean": false,
+   "session": "Mental Health Chatbots and Conversational Agents",
+   "code": "CHI25",
+   "doi": "10.1145/3772318.3791422"
+  }
+ ]
+}
