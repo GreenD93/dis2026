@@ -157,29 +157,32 @@
 | 6/17(수) 11:00–12:30 | DIS10 | Revealed or Reinforced: How Assistive Technologies | LT 50 (Stephen Riady Centre Lv1) |
 | 6/17(수) 11:00–12:30 | DIS16 | Designing Artificial Identity: The Identity Design | LT 52 (Stephen Riady Centre Lv2) |
 
-## 4. 🇰🇷 한국 기관 / 한국인 저자 참여 (별도)
+## 4. 🇰🇷 한국 기관 / 한국인 저자 참여 (별도) + 교신/제1저자 이메일
 
 > "한국대학교(고려대)" 단독 발표는 없음. 추천 17편 중 한국 소속 + 그 외 주요 한국 발표.
+> 이메일은 **공개 교수/연구실 페이지 또는 arXiv PDF(IntentFlow)에서 확인**한 값. 확인 안 된 것은 *(미확인)* 표기 — 추정 주소는 넣지 않음.
 
-| 시간(SGT) | 논문 | 한국 소속 | 세션 |
+| 시간(SGT) | 논문 | 한국 소속 | 교신/제1저자 · 이메일 |
 |---|---|---|---|
-| 6/17(수) 11:00 | **DIS16** Designing Artificial Identity: The Identity  | Seoul National University | Robots in Social and Professional Roles |
-| 6/16(화) 16:10 | **DIS06** MindStock: Investigating How Principle-Ancho | KAIST | Aging, Culture, and Domestic Technology |
-| 6/17(수) 09:00 | **DIS04** IntentFlow: Investigating Fluid Dynamics of  | KAIST | Robots, LLMs, and Intent |
-| 월 18:30 | Comforting an Emotion-Mirroring Robot (PWiP) | Hongik Univ. | Provocations & WiP |
-| 월 18:30 | Transparent AI-Mediated Language Support (PWiP) | Seoul National Univ. | Provocations & WiP |
-| 화 09:00 | Co-designing Haptics for Deaf/HoH Music Education | KAIST · ETRI | Haptics and Sensory Interaction |
-| 화 09:00 | Augmentiary: LLM Interpretive Feedback for Journaling | UNIST | AI in Education and Reflection |
-| 화 11:00 | ComiXR: Comic Layouts in XR | KAIST | Social XR and Virtual Companionship |
-| 화 14:00 | Value-Sensitive AI for Prayer | Yonsei (공저) | AI Support for Reflection and Writing |
-| 화 14:00 | Group Conversational Agents: A Review | NAVER AI Lab (공저) | Conversational Agents in Everyday Life |
-| 화 16:10 | When XR Comes Home | Sogang Univ. | Aging, Culture, and Domestic Technology |
-| 수 11:00 | Designing Artificial Identity (framework) | ETRI (공저) | Robots in Social & Professional Roles |
-| 수 14:00 | Who Sets the Norm? ADHD Relationships | KAIST | Algorithmic Intimacy and Identity |
-| 수 14:00 | Is This the Real Me? Algorithmic Self-Portraits | UNIST | Algorithmic Intimacy and Identity |
-| 일 09:00 | (워크숍) AI, Sensemaking & Decision-Making in Crisis | SeoulTech | WS15 |
+| 6/17(수) 11:00 | **DIS16** Designing Artificial Identity: The Identit | Seoul National University | Jihye Lee(SNU)/Minsu Jang(ETRI) · *(미확인)* |
+| 6/16(화) 16:10 | **DIS06** MindStock: Investigating How Principle-Anc | KAIST | Hwajung Hong(교신) · hwajung@kaist.ac.kr |
+| 6/17(수) 09:00 | **DIS04** IntentFlow: Investigating Fluid Dynamics o | KAIST | Juho Kim(교신) · juhokim@kaist.ac.kr / Yoonsu Kim(제1) · yoonsu16@kaist.ac.kr |
+| 월 18:30 | Comforting an Emotion-Mirroring Robot (PWiP) | Hongik Univ. | Dokshin Lim · doslim@hongik.ac.kr |
+| 월 18:30 | Transparent AI-Mediated Language Support (PWiP) | Seoul National Univ. | Joonhwan Lee(PI) · @snu.ac.kr *(정확주소 미확정)* |
+| 화 09:00 | Co-designing Haptics for Deaf/HoH Music Education | KAIST · ETRI | Woohun Lee · woohun.lee@kaist.ac.kr |
+| 화 09:00 | Augmentiary: LLM Interpretive Feedback for Journaling | UNIST | Kyungho Lee(PI) · kyungho@unist.ac.kr |
+| 화 11:00 | ComiXR: Comic Layouts in XR | KAIST | Ian Oakley(PI) · ianoakley@kaist.ac.kr |
+| 화 11:00 | Adilet · Reelee · SOTATE (physicalization) | UNIST | Young-Woo Park(PI) · ywpark@unist.ac.kr |
+| 화 14:00 | Value-Sensitive AI for Prayer | Yonsei (공저) | Younah Kang · yakang@yonsei.ac.kr |
+| 화 14:00 | Group Conversational Agents: A Review | NAVER AI Lab (공저) | Young-Ho Kim · navercorp.com *(정확주소 미확정, younghokim.net)* |
+| 화 16:10 | When XR Comes Home | Sogang Univ. | Minjin Rheu · *(미확인, 현 Loyola/luc.edu)* |
+| 화 16:10 | Technology Redux | KAIST | Youn-kyung Lim(PI) · younlim@kaist.ac.kr |
+| 화 14:00 | Supporting Dance Motor Skill Training in VR | Hanyang Univ. | Yongjae Yoo(PI) · yongjaeyoo@hanyang.ac.kr |
+| 수 14:00 | Who Sets the Norm? ADHD Relationships | KAIST | Hwajung Hong(PI) · hwajung@kaist.ac.kr |
+| 수 14:00 | Is This the Real Me? Algorithmic Self-Portraits | UNIST | Kyungho Lee(PI) · kyungho@unist.ac.kr |
+| 일 09:00 | (워크숍) AI, Sensemaking & Decision-Making in Crisis | SeoulTech | Kyoungwon Seo · kwseo@seoultech.ac.kr |
 
-🔗 굵은 `DISxx`는 추천 17편 포함.
+🔗 굵은 `DISxx`는 추천 17편 포함. 이메일 출처: KAIST/UNIST/Yonsei/Hanyang/Hongik/SeoulTech 공개 교수·연구실 페이지, IntentFlow는 arXiv PDF.
 
 ## 5. PDF 안내
 
