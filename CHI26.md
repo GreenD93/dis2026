@@ -55,10 +55,10 @@
 - 💡 **[GUI 에이전트 사용자행동]** 웹 브라우징 GUI 에이전트의 **실사용 이슈·영향·완화**를 사용자 보고 기반으로 특성화.
 - 🔗 [DOI](https://doi.org/10.1145/3772318.3790696) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222463) · 📄 `CHI26/CHI19_*.pdf`
 
-#### 8. CHI20 · ★ · 인용 0 · 🇰🇷 ⏳ Toward Independent Online Shopping of the Visually Impaired Through Voice-based Computer-Using Agent
+#### 8. CHI20 · ★ · 인용 0 · 🇰🇷 📄 Toward Independent Online Shopping of the Visually Impaired Through Voice-based Computer-Using Agent
 - 👤 Subin Shin (Yonsei University); Jeesun Oh (Yonsei University) 외 3인
 - 💡 **[에이전트가 GUI 조작]** 음성 기반 **Computer-Using Agent**가 GUI를 직접 조작해 시각장애인 온라인 쇼핑 지원. (연세대 🇰🇷)
-- 🔗 [DOI](https://doi.org/10.1145/3772318.3791681) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222205) · ⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)
+- 🔗 [DOI](https://doi.org/10.1145/3772318.3791681) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222205) · 📄 `CHI26/CHI20_*.pdf`
 
 ### Ⅱ. AI 페르소나·정체성 설계
 
@@ -109,10 +109,10 @@
 - 💡 **[커머스+소비행동]** 라이브커머스의 알고리즘 추천·시간제한 프로모션이 충동구매 유발 → **합리적 소비 개입** UX.
 - 🔗 [DOI](https://doi.org/10.1145/3772318.3790928) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/222948) · 📄 `CHI26/CHI09_*.pdf`
 
-#### 5. CHI15 · ★★ · 인용 0 · ⏳ Dynamic Compensation Can Enhance User Engagement by Triggering Sensitivity to Financial Losses in Crowd-sourced Studies
+#### 5. CHI15 · ★★ · 인용 0 · 📄 Dynamic Compensation Can Enhance User Engagement by Triggering Sensitivity to Financial Losses in Crowd-sourced Studies
 - 👤 Catalina Gomez (Johns Hopkins University); Mung Yao Jia (Johns Hopkins University) 외 3인
 - 💡 **[금융 행동경제 넛지]** **손실 민감도(손실회피)**를 자극하는 동적 보상이 참여·책임감을 높임.
-- 🔗 [DOI](https://doi.org/10.1145/3772318.3791660) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/223183) · ⏳ ACM DL에서 직접 다운로드 권장(자동수집 차단)
+- 🔗 [DOI](https://doi.org/10.1145/3772318.3791660) · [프로그램](https://programs.sigchi.org/chi/2026/program/content/223183) · 📄 `CHI26/CHI15_*.pdf`
 
 ### Ⅳ. 금융 × AI 인터페이스 — 금융활동·의사결정
 
@@ -163,7 +163,7 @@
 | Ⅰ 메커니즘 | 5 | CHI05 | Interaction Methods in Generative AI Image Too | 1 | ★★ | ✅ |
 | Ⅰ 메커니즘 | 6 | CHI03 | Fit Matters: Format–Distance Alignment Improve | 1 | ★★ | ✅ |
 | Ⅰ 메커니즘 | 7 | CHI19 | Characterizing Unintended Consequences of GUI  | 0 | ★ | ✅ |
-| Ⅰ 메커니즘 | 8 | CHI20 | Toward Independent Online Shopping of the Visu | 0 | ★ | ⏳ |
+| Ⅰ 메커니즘 | 8 | CHI20 | Toward Independent Online Shopping of the Visu | 0 | ★ | ✅ |
 | Ⅱ 페르소나 | 1 | CHI21 | Creating and Evaluating Personas Using Generat | 7 | ★★★ | ✅ |
 | Ⅱ 페르소나 | 2 | CHI22 | Vibe Check: Understanding the Effects of LLM-B | 6 | ★★★ | ✅ |
 | Ⅱ 페르소나 | 3 | CHI24 | AI-exhibited Personality Traits Can Shape Huma | 4 | ★★ | ✅ |
@@ -173,7 +173,7 @@
 | Ⅲ 넛지·광고 | 2 | CHI02 | Deception at Scale: Deceptive Designs in 1K LL | 1 | ★★★ | ✅ |
 | Ⅲ 넛지·광고 | 3 | CHI10 | The Bots of Persuasion: Examining How Conversa | 1 | ★★ | ✅ |
 | Ⅲ 넛지·광고 | 4 | CHI09 | BuyMate: Making AI Interventions Effective in  | 0 | ★★ | ✅ |
-| Ⅲ 넛지·광고 | 5 | CHI15 | Dynamic Compensation Can Enhance User Engageme | 0 | ★★ | ⏳ |
+| Ⅲ 넛지·광고 | 5 | CHI15 | Dynamic Compensation Can Enhance User Engageme | 0 | ★★ | ✅ |
 | Ⅳ 금융 | 1 | CHI13 | Clarifying or Complicating?: Understanding Old | 0 | ★★ | ✅ |
 | Ⅳ 금융 | 2 | CHI14 | ScamPilot: Simulating Conversations with LLMs  | 0 | ★★ | ✅ |
 | Ⅳ 금융 | 3 | CHI11 | Supporting Money Management among Adults with  | 0 | ★★ | ✅ |
