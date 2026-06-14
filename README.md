@@ -8,10 +8,9 @@
 
 | 파일 | 내용 |
 |---|---|
+| **[PROPOSAL.md](PROPOSAL.md)** | ⭐ 배경·관심사 + 합성: 컴포넌트 인터랙션 → 넛지·행동유도 → 광고 **3-레이어 모델** + 은행 AX 설계 함의 |
 | **[CHI26.md](CHI26.md)** | CHI 2026 관심 논문 **25편** · 5개 소주제 · 인용수·관련도 순위 |
 | **[DIS26.md](DIS26.md)** | DIS 2026 참석 계획 · 17편 · 요일별 세션·장소·시간 · 🇰🇷 한국인 저자 이메일 |
-| **[AGENTIC_UI_NUDGE_ADS.md](AGENTIC_UI_NUDGE_ADS.md)** | ⭐ 합성: 컴포넌트 인터랙션 → 넛지·행동유도 → 광고 **3-레이어 모델** + 은행 AX 설계 함의 |
-| **[INDEX.md](INDEX.md)** | 두 학회 요약 · 소주제 매핑 · PDF 출처 메모 |
 | `papers/CHI26/` · `papers/DIS26/` | 논문 PDF (로컬 전용, **git 비포함** — `.gitignore`) |
 | `scripts/` | 생성 파이프라인(프로그램 크롤·인용수 조회·키워드 점수·PDF 다운로드) |
 
@@ -26,6 +25,23 @@
 | 개최 | 🇸🇬 Singapore (NUS) · **6/13–17** (현재 진행) | 🇪🇸 Barcelona · **4/13–17** (완료) |
 | 선정 | **17편** (4 소주제) + 한국인 저자 발표 별도 | **25편** (5 소주제) |
 | PDF | 4/17 (arXiv) — 학회 후 ACM DL 보강 가능 | 25/25 확보 |
+
+### 소주제 한눈에
+
+```
+CHI26 — 5개 소주제 × 25편
+  Ⅰ Agentic UI 메커니즘 (8)            CHI18·04·16·01·05·03·19·20
+  Ⅱ AI 페르소나·정체성 설계 (5)         CHI21·22·24·25·23
+  Ⅲ 넛지·설득·광고·커머스 (5)            CHI17·02·10·09·15
+  Ⅳ 금융 × AI 인터페이스 (4)             CHI13·14·11·12
+  Ⅴ 사용자 행동·신뢰·과의존 (3)          CHI07·06·08
+
+DIS26 — 4개 소주제 × 17편
+  Ⅰ 통합·Orchestration·Agentic AI (5)   DIS01·02·03·04·05
+  Ⅱ AI 페르소나 (6)                     DIS16·17·12·13·14·15
+  Ⅲ Agentic 금융서비스 고객 행동 (3)     DIS06·07·08
+  Ⅳ 사기·기만(deception) 방어 (3)       DIS09·10·11
+```
 
 ---
 
@@ -135,4 +151,5 @@
 - **ACM DL** (DOI 링크 — 브라우저에서 열람): 위 표의 [DOI](https://doi.org/) 링크
 - **arXiv 프리프린트**: 위 표에 📄 [arXiv] 표시된 항목
 - **SIGCHI 프로그램** (논문 메타·DOI·세션): [`programs.sigchi.org/chi/2026`](https://programs.sigchi.org/chi/2026) · [`programs.sigchi.org/dis/2026`](https://programs.sigchi.org/dis/2026)
-- **자동 다운로드 스크립트**: `scripts/download_pdfs.py` (일부 ACM 링크는 Cloudflare 봇 차단 → 브라우저 수동 받기 권장)
+- **자동 다운로드 스크립트**: `scripts/download_pdfs.py` — arXiv 우선 → ACM. 일부 ACM 링크는 **Cloudflare 봇 차단**되어 DOI를 브라우저에서 직접 여는 게 안정적.
+- DIS 2026은 본 학회 직후(6/17 이후) **ACM DL**에 논문집 공개 → arXiv 없는 13편은 그 이후 보강 가능.

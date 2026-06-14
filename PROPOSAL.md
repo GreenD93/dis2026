@@ -1,10 +1,40 @@
-# Agentic 금융 서비스 UI — 컴포넌트 인터랙션 → 넛지·행동유도 → 광고 (합성)
+# Agentic 금융 서비스 UI — 제안서 (PROPOSAL)
 
-> **비전**: 인터넷은행의 Agentic AI 서비스는 *순수 텍스트*가 아니라 **대화 안에 GUI 컴포넌트(버튼·카드·위젯)를 섞어 내고, 사용자가 그걸 눌러 서비스가 실행**되는 형태가 된다.
+> 인터넷은행 AI개발자 관점에서, **DIS 2026 / CHI 2026 채택 논문**을 근거로 **컴포넌트 인터랙션 → 넛지·행동유도 → 광고/커머스** 3-레이어 모델을 제안.
+> 논문별 상세·링크·PDF: [CHI26.md](CHI26.md) · [DIS26.md](DIS26.md) · 인덱스: [README.md](README.md)
+
+---
+
+## 1. 배경 · 역할 · 관심사
+
+### 역할
+인터넷은행 **AI개발자** — 최근 진행 중인 일:
+- **AI Orchestration**
+- **AI Persona**
+- 조직의 **AI Transformation** 업무 (Guidelines → skills화)
+
+### 이번 큐레이션의 두 Task
+- **Task1 (DIS 2026 참석)**: 월·화·수 일정 중 관심사 기반 **추천 세션·논문·일정 계획**. 한국대학교·한국인 발표는 **별도 정리**. → [DIS26.md](DIS26.md)
+- **Task2 (CHI 2026 회고)**: 올해 CHI에서 진행된 세션 중 관심사와 관련 있는 **논문 리스트업**. → [CHI26.md](CHI26.md)
+
+### 관심사 키워드
+| 영역 | 키워드 |
+|---|---|
+| Agentic AI & Orchestration | Agentic AI · AI Agent · Autonomous Agent · LLM-based / Copilot Interface · Human-Agent Interaction · Agent Orchestration |
+| Conversational & Unified Interface | Conversational UI · Chat Interface · Chatbot · GUI ↔ Conversational · Multimodal · Unified Interface |
+| Financial Domain | Fintech · Mobile Banking · Financial Application · Financial Decision Making · Investment Behavior |
+| AI Persona & Design | AI Persona · Agent Persona · Chatbot Personality · Conversational Agent Design · Social Robot |
+| Behavior & Persuasion | Nudge · Persuasive Technology · Behavioral Design · Action Chip · Microinteraction · User Engagement · Behavior Change |
+| User Behavior Analysis | Interaction Patterns · User Study · Log Analysis · Think Aloud · Contextual Inquiry |
+
+---
+
+## 2. 비전 — Agentic 금융 서비스 UI
+
+> 인터넷은행의 Agentic AI 서비스는 *순수 텍스트*가 아니라 **대화 안에 GUI 컴포넌트(버튼·카드·위젯)를 섞어 내고, 사용자가 그걸 눌러 서비스가 실행**되는 형태가 된다.
 > 그 위에 **① 서비스 실행 → ② 넛지·행동유도 → ③ 광고/커머스**를 어떻게 얹을지, 그리고 **다크패턴 경계**를 어떻게 지킬지를 CHI 2026 · DIS 2026 논문으로 뒷받침한다.
-> 논문별 전체 설명·링크·PDF: [CHI26.md](CHI26.md) · [DIS26.md](DIS26.md)
 
-## 3-레이어 모델
+### 3-레이어 모델
 
 ```
 ┌─ ③ 광고 · 커머스 ───────────────────────── 다크패턴 경계 ─┐
@@ -15,10 +45,15 @@
 │   "텍스트만" 대신 버튼·위젯 렌더 → 누르면 서비스 수행            │
 └──────────────────────────────────────────────────────────┘
         ↑ 가로지르는 축: 사용자 행동 · 신뢰/과의존 · 설명/통제
-핵심: ①을 잘 만들수록 ②③를 담을 표면이 생긴다. 단, ③로 갈수록 다크패턴 위험↑ → 통제·설명 장치 필수.
 ```
 
-## ① 메커니즘 — 에이전트가 GUI 컴포넌트를 생성/실행 (버튼 인터랙션)
+**핵심**: ①을 잘 만들수록 ②③를 담을 표면이 생긴다. 단, ③로 갈수록 다크패턴 위험↑ → 통제·설명 장치 필수.
+
+---
+
+## 3. 레이어별 논문 매핑
+
+### ① 메커니즘 — 에이전트가 GUI 컴포넌트를 생성/실행 (버튼 인터랙션)
 
 | 코드 | 논문 | 무엇을 주나 |
 |---|---|---|
@@ -34,17 +69,17 @@
 | `DIS03` | **Fairy Cursor** | 챗창이 아니라 **흐름 속**에서 돕는 임베디드 에이전트 형태 |
 | `DIS04` 🇰🇷 | **IntentFlow** (KAIST) | **의도 전달** 동역학 — 사용자 의도→결과(컴포넌트) 명세 워크플로 |
 
-## ② 넛지 · 행동유도 (컴포넌트 위에 얹는 설득)
+### ② 넛지 · 행동유도 (컴포넌트 위에 얹는 설득)
 
 | 코드 | 논문 | 무엇을 주나 |
 |---|---|---|
 | `CHI10` | **The Bots of Persuasion** | CA의 **언어적 성격 표현**이 의사결정에 주는 영향 — 설득 톤 설계 |
 | `CHI15` | **Dynamic Compensation (Financial Losses)** | **손실회피**를 자극하는 동적 보상 → 참여·책임감↑ (행동경제 넛지) |
 | `CHI09` | **BuyMate (Live Commerce)** | 충동구매 유발 패턴 vs **합리적 소비로 유도하는 AI 개입** |
-| `DIS13` 🇰🇷 | **MindStock** (KAIST) | 투자앱 인지편향을 **원칙기반 피드백**으로 자기성찰 유도 |
+| `DIS06` 🇰🇷 | **MindStock** (KAIST) | 투자앱 인지편향을 **원칙기반 피드백**으로 자기성찰 유도 |
 | `CHI06` | **Behavioral Indicators of Overreliance** | 넛지가 **과의존**으로 흐르는지 감지하는 행동지표 (역효과 감시) |
 
-## ③ 광고 · 커머스 (+ 다크패턴 경계)
+### ③ 광고 · 커머스 (+ 다크패턴 경계)
 
 | 코드 | 논문 | 무엇을 주나 |
 |---|---|---|
@@ -54,7 +89,7 @@
 | `DIS10` | **Revealed or Reinforced (Assistive Tech × Dark Patterns)** | 보조기술이 다크패턴 경험을 **드러내거나 강화** |
 | `DIS11` | **Rushed by Discomfort (VR Privacy Deceptive Design)** | 몰입형 **프라이버시 다크패턴**에 대한 사용자 반응 |
 
-## 가로지르는 축 — 사용자 행동 · 신뢰 · 설명/통제
+### 가로지르는 축 — 사용자 행동 · 신뢰 · 설명/통제
 
 | 코드 | 논문 | 축 |
 |---|---|---|
@@ -63,20 +98,25 @@
 | `CHI13` 🇰🇷 | Clarifying or Complicating? XAI in E-Commerce (서울대) | **AI 설명**이 구매 의사결정에 실제 도움이 되는가 |
 | `CHI08` | Multimodal Conversational Search (Gemini Live류) | 통합 대화검색 **사용 행동** |
 
-## 은행 AX팀 설계 함의 (요약)
+---
+
+## 4. 은행 AX팀 설계 함의 (요약)
 
 | 설계 질문 | 근거 논문 | 적용 포인트 |
 |---|---|---|
 | 텍스트 vs 컴포넌트, 무엇으로 응답? | `CHI03` `CHI05` | 사용자 인지상태·과업에 따라 버튼/카드/텍스트 선택 |
 | 버튼-액션 실행 인터랙션을 어떻게? | `CHI16` `DIS01` `DIS02` | 에이전트-사용자 공동생성 + mixed-initiative, 항상 override 가능 |
 | 생성된 컴포넌트 품질 보장 | `CHI18` | 디자이너 피드백 루프로 컴포넌트 일관성 확보 |
-| 넛지를 넣되 반발 최소화 | `CHI10` `CHI15` `DIS13` | 손실회피·원칙기반 피드백, 설득 톤 조절 |
+| 넛지를 넣되 반발 최소화 | `CHI10` `CHI15` `DIS06` | 손실회피·원칙기반 피드백, 설득 톤 조절 |
 | 광고/추천을 넣되 신뢰 유지 | `CHI02` `CHI17` `CHI09` `DIS09` | 다크패턴 회피, 스폰서 표시·통제권 제공 |
 | 과의존·오작동 방지 | `CHI06` `CHI07` `CHI19` `CHI04` | 과의존 지표 모니터링 + 설명·통제·인간 감독 |
 
-## 읽는 순서 추천
+---
+
+## 5. 읽는 순서 추천
+
 1. **`CHI16` DuetUI** → 우리가 만들 "컴포넌트 공동생성·버튼 실행" 인터랙션의 골격
 2. **`DIS01` Hybrid GUI-LLM** → GUI+LLM 결합 패러다임
 3. **`CHI02` Deception at Scale** + **`CHI17` Dark Patterns Meet GUI Agents** → ③ 광고/커머스 컴포넌트의 윤리 가드레일
-4. **`CHI15` Dynamic Compensation** + **`DIS13` MindStock** → ② 금융 넛지 설계
+4. **`CHI15` Dynamic Compensation** + **`DIS06` MindStock** → ② 금융 넛지 설계
 5. **`CHI06`/`CHI07`/`CHI04`** → 신뢰·과의존·통제 안전장치
