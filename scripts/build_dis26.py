@@ -44,7 +44,7 @@ GROUPS=[
 ]
 bd={r['code']:r for r in DIS}
 o=[]
-o.append("# DIS 2026 참석 계획 (DIS26_PLANNING)\n")
+o.append("# DIS 2026 관심 논문 · 참석 계획 (DIS26)\n")
 o.append("> **ACM Designing Interactive Systems Conference 2026** · Singapore (NUS) · **2026-06-13~17** · 시간=현지(SGT)")
 o.append("> 출처: https://programs.sigchi.org/dis/2026\n")
 o.append("## 0. 이 정리의 관점 — 인터넷은행 AX팀\n")
@@ -121,5 +121,5 @@ for w,ti,inst,em in KR: o.append(f"| {w} | {ti} | {inst} | {em} |")
 o.append("\n🔗 굵은 `DISxx`는 추천 17편 포함. 이메일 출처: KAIST/UNIST/Yonsei/Hanyang/Hongik/SeoulTech 공개 교수·연구실 페이지, IntentFlow는 arXiv PDF.\n")
 o.append("## 5. PDF 안내\n")
 o.append("DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `papers/DIS26/`에 확보 — 나머지는 개최 후 보강 가능.\n")
-open(f"{BASE}/DIS26_PLANNING.md",'w').write("\n".join(o))
-print("DIS26_PLANNING.md written ·", sum(has_pdf(r['code']) for r in DIS),"/15 PDF")
+open(f"{BASE}/DIS26.md",'w').write("\n".join(o))
+print("DIS26.md written ·", sum(has_pdf(r['code']) for r in DIS),"/15 PDF")

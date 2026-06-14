@@ -1,4 +1,4 @@
-# DIS 2026 참석 계획 (DIS26_PLANNING)
+# DIS 2026 관심 논문 · 참석 계획 (DIS26)
 
 > **ACM Designing Interactive Systems Conference 2026** · Singapore (NUS) · **2026-06-13~17** · 시간=현지(SGT)
 > 출처: https://programs.sigchi.org/dis/2026

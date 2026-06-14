@@ -9,7 +9,7 @@
 | 파일 | 내용 |
 |---|---|
 | **[CHI26.md](CHI26.md)** | CHI 2026 관심 논문 **25편** · 5개 소주제 · 인용수·관련도 순위 |
-| **[DIS26_PLANNING.md](DIS26_PLANNING.md)** | DIS 2026 참석 계획 · 17편 · 요일별 세션·장소·시간 · 🇰🇷 한국인 저자 이메일 |
+| **[DIS26.md](DIS26.md)** | DIS 2026 참석 계획 · 17편 · 요일별 세션·장소·시간 · 🇰🇷 한국인 저자 이메일 |
 | **[AGENTIC_UI_NUDGE_ADS.md](AGENTIC_UI_NUDGE_ADS.md)** | ⭐ 합성: 컴포넌트 인터랙션 → 넛지·행동유도 → 광고 **3-레이어 모델** + 은행 AX 설계 함의 |
 | **[INDEX.md](INDEX.md)** | 두 학회 요약 · 소주제 매핑 · PDF 출처 메모 |
 | `papers/CHI26/` · `papers/DIS26/` | 논문 PDF (로컬 전용, **git 비포함** — `.gitignore`) |
@@ -87,7 +87,7 @@
 
 ## 🟩 DIS 2026 — 17편 INDEX
 
-> 📑 상세: [DIS26_PLANNING.md](DIS26_PLANNING.md) · 🔗 = SIGCHI 프로그램 · 🇰🇷 = 한국 기관 저자 · 📄 = arXiv PDF 확보 · ⏳ = 학회 후 ACM DL
+> 📑 상세: [DIS26.md](DIS26.md) · 🔗 = SIGCHI 프로그램 · 🇰🇷 = 한국 기관 저자 · 📄 = arXiv PDF 확보 · ⏳ = 학회 후 ACM DL
 
 ### Ⅰ. 통합 신규 인터페이스 · Orchestration · Agentic AI (5편)
 
@@ -130,7 +130,7 @@
 
 ## 📥 PDF 다운로드 가이드
 
-저작권상 PDF는 git에 포함하지 않습니다. 각자 받아 `papers/CHI26/CHI{nn}_*.pdf`, `papers/DIS26/DIS{nn}_*.pdf` 형식으로 배치하면 [CHI26.md](CHI26.md) · [DIS26_PLANNING.md](DIS26_PLANNING.md) 의 `📄 papers/...` 참조가 해석됩니다.
+저작권상 PDF는 git에 포함하지 않습니다. 각자 받아 `papers/CHI26/CHI{nn}_*.pdf`, `papers/DIS26/DIS{nn}_*.pdf` 형식으로 배치하면 [CHI26.md](CHI26.md) · [DIS26.md](DIS26.md) 의 `📄 papers/...` 참조가 해석됩니다.
 
 - **ACM DL** (DOI 링크 — 브라우저에서 열람): 위 표의 [DOI](https://doi.org/) 링크
 - **arXiv 프리프린트**: 위 표에 📄 [arXiv] 표시된 항목
