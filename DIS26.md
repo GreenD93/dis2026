@@ -29,40 +29,40 @@
 
 - `DIS01` 🧩 통합·Orchestration  **A Hybrid GUI-LLM Interface Paradigm for 3D Scene Customisation**
   - GUI 직접조작 + LLM 프롬프트를 결합한 **하이브리드 인터페이스(LCS)** — 비전문가용 3D 씬 편집. ★통합 신규 인터페이스 원형.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257037) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812986) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257037)
 
 **🕘 11:00–12:30 · Designing AI Concepts and Values · 📍 LT 51 (Stephen Riady Centre Lv1)**
 
 - `DIS13` 🎭 AI 페르소나  **StreetDesignAI: Broadening Designer Perspectives Through Multi-Persona Evaluation of Cycling Infrastructure**
   - **다중 페르소나**로 디자이너 관점 확장(자전거 인프라 평가) — 현장조사 없이 다관점 고객 시뮬레이션.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257240) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812888) · [arXiv](https://arxiv.org/abs/2601.15671) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257240)
 - `DIS14` 🎭 AI 페르소나  **PrivacyMotiv: Vulnerability-Centered Persona Journeys for Empathic Privacy Reviews in UX Design**
   - **취약성 중심 페르소나 저니**로 공감적 프라이버시 리뷰 — 현장조사 없이 사용자 입장을 대리 체험. ★
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257081) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3813014) · [arXiv](https://arxiv.org/abs/2510.03559) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257081)
 
 **🕘 11:00–12:30 · Intimate Data, Consent, and Harm · 📍 LT 52 (Stephen Riady Centre Lv2)**
 
 - `DIS11` 🛡 사기·기만 방어  **Rushed by Discomfort, Trapped by Immersion: Users’ Experiences and Responses to Privacy Deceptive Design in Commercial VR Applications **
   - **몰입형(VR/AR) 프라이버시 다크패턴**에 대한 사용자 경험·대응 — 기만 설계에 맞선 인터페이스 디자인.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257114) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812990) · [arXiv](https://arxiv.org/abs/2605.09198) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257114)
 
 **🕘 16:10–17:40 · AI, Civic Participation, and Journalism · 📍 LT 52 (Stephen Riady Centre Lv2)**
 
 - `DIS08` 💰 금융 고객행동 📄 **Bonik Somiti: A Social-market Tool for Safe, Accountable, and Harmonious Informal E-Market Ecosystem in Bangladesh**
   - 비공식 전자상거래 생태계를 위한 **안전·책임 소셜마켓 도구** — 신뢰 기반 금융거래 행동 설계.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257147) · [arXiv](https://arxiv.org/abs/2602.12650) · 📄 `papers/DIS26/DIS08_*.pdf`
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812955) · [arXiv](https://arxiv.org/abs/2602.12650) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257147) · 📄 `papers/DIS26/DIS08_*.pdf`
 
 **🕘 16:10–17:40 · Agency and Explanation in AI Systems · 📍 Auditorium 1 (Town Plaza Lv1)**
 
 - `DIS02` 🧩 통합·Orchestration  **When Systems Take Initiative: A Design Framework for Adaptive, Mixed-initiative Database Querying**
   - 시스템이 주도권을 갖는 **적응형 mixed-initiative 질의** — Orchestration이 사용자 의도를 보조(GUI↔자연어 전환).
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257198) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812906) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257198)
 - `DIS03` 🧩 통합·Orchestration  **Exploring Fairy Cursor as a Form of AI Agent for In-the-Flow Assistance: Design Opportunities and Challenges**
   - 챗창이 아니라 **커서에 붙어** 흐름 속에서 돕는 임베디드 에이전트 — 통합 서비스 안의 에이전트 형태.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257119) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3813082) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257119)
 - `DIS05` 🧩 통합·Orchestration  **Who Did What? Designing Avatars for Explainable Multi-Agent Systems in Knowledge Work**
   - 멀티에이전트 결과를 **아바타로 설명·투명화** — '누가 무엇을 했나' 가시화로 Orchestration 신뢰 확보.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257236) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812981) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257236)
 
 ### 📅 6/16(화)
 
@@ -70,25 +70,25 @@
 
 - `DIS12` 🎭 AI 페르소나 📄 **Understanding Down Syndrome Stereotypes in LLM-Based Personas**
   - **LLM+RAG로 사용자 페르소나 모델링**(Persona-L) + 고정관념 리스크 — 합성 페르소나로 고객 이해(주의점). ★
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257253) · [arXiv](https://arxiv.org/abs/2512.02275) · 📄 `papers/DIS26/DIS12_*.pdf`
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812894) · [arXiv](https://arxiv.org/abs/2512.02275) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257253) · 📄 `papers/DIS26/DIS12_*.pdf`
 - `DIS15` 🎭 AI 페르소나 📄 **ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas**
   - 온라인 커뮤니티 **멤버 페르소나**로 대화형 정보탐색 — 실제 사용자 군집을 페르소나로 모사.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257070) · [arXiv](https://arxiv.org/abs/2603.19747) · 📄 `papers/DIS26/DIS15_*.pdf`
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3813049) · [arXiv](https://arxiv.org/abs/2603.19747) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257070) · 📄 `papers/DIS26/DIS15_*.pdf`
 
 **🕘 11:00–12:30 · Social XR and Virtual Companionship · 📍 LT 51 (Stephen Riady Centre Lv1)**
 
 - `DIS17` 🎭 AI 페르소나  **Designing Character-Bound In-Public Companions: Interactional Insights from ACG Practices**
   - ACG(애니·만화·게임) 실천에서 길어낸 **캐릭터-바운드 공개 동반자**의 인터랙션 인사이트 — 캐릭터 페르소나 설계.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257118) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3813079) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257118)
 
 **🕘 16:10–17:40 · Aging, Culture, and Domestic Technology · 📍 Auditorium 1 (Town Plaza Lv1)**
 
 - `DIS06` 💰 금융 고객행동 🇰🇷 **MindStock: Investigating How Principle-Anchored Feedback Supports Self-Reflection in Mobile Investment**
   - 모바일 투자앱 인지편향을 **원칙기반 피드백**으로 자기성찰 유도 — **금융 의사결정 행동변화**. ★ (KAIST/UNIST)
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257127) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812925) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257127)
 - `DIS07` 💰 금융 고객행동  **Who Gets Left Out of Digital Banking in Later Life? Barriers and Opportunitiesin Hong Kong's Silver Population**
   - 고령층의 **디지털뱅킹 사용 장벽·기회**(홍콩) — Agentic 금융서비스가 놓치는 고객층의 실제 행동/포용. ★
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257161) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812886) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257161)
 
 ### 📅 6/17(수)
 
@@ -96,25 +96,25 @@
 
 - `DIS09` 🛡 사기·기만 방어  **Is it Dark? Understanding Dark Pattern Influence through User Behavioral Strategies and Interpretations in Livestream E-commerce**
   - 라이브커머스 **다크패턴**을 사용자 **행동전략·해석**으로 재조명 — 기만 인지/방어 인터페이스. ★
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257068) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812964) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257068)
 
 **🕘 09:00–10:30 · Robots, LLMs, and Intent · 📍 LT 52 (Stephen Riady Centre Lv2)**
 
 - `DIS04` 🧩 통합·Orchestration 🇰🇷📄 **IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI**
   - 생성형 AI의 **의도 전달(intent communication) 동역학** — 의도→결과 명세 워크플로. (KAIST, Juho Kim 랩)
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257035) · [arXiv](https://arxiv.org/abs/2507.22134) · 📄 `papers/DIS26/DIS04_*.pdf`
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812999) · [arXiv](https://arxiv.org/abs/2507.22134) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257035) · 📄 `papers/DIS26/DIS04_*.pdf`
 
 **🕘 11:00–12:30 · Accessibility Across Vision and Print · 📍 LT 50 (Stephen Riady Centre Lv1)**
 
 - `DIS10` 🛡 사기·기만 방어  **Revealed or Reinforced: How Assistive Technologies Shape the Experience with Dark Patterns for Blind and Low-Vision Users**
   - **보조기술(스크린리더 등)**이 다크패턴 경험을 드러내거나 오히려 강화 — 접근성 × 기만 방어.
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257053) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812887) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257053)
 
 **🕘 11:00–12:30 · Robots in Social and Professional Roles · 📍 LT 52 (Stephen Riady Centre Lv2)**
 
 - `DIS16` 🎭 AI 페르소나 🇰🇷 **Designing Artificial Identity: The Identity Design Framework and Research Agenda**
   - **AI/에이전트 정체성(Artificial Identity) 설계 프레임워크**와 연구 어젠다 — 페르소나·정체성 설계의 정통 레퍼런스. ★★ (SNU·ETRI)
-  - 🔗 [프로그램](https://programs.sigchi.org/dis/2026/program/content/257056) · ⏳ 학회 후 ACM DL
+  - 🔗 [DOI](https://doi.org/10.1145/3800645.3812962) · [프로그램](https://programs.sigchi.org/dis/2026/program/content/257056)
 
 ## 3. 소주제 색인
 
@@ -152,4 +152,6 @@
 
 ## 5. PDF 안내
 
-DIS 2026 논문집은 학회 개최(6/13–17)에 맞춰 ACM DL 공개. 현재는 **arXiv 프리프린트가 있는 4편**(DIS04·08·12·15)만 `papers/DIS26/`에 확보 — 나머지는 개최 후 보강 가능.
+DIS 2026 논문집이 **ACM Open Access**로 공개되었다(`dl.acm.org/doi/proceedings/10.1145/3800645`). 위 17편 모두 ACM DL DOI 링크에서 본문 PDF 다운로드 가능.
+arXiv 프리프린트가 추가로 확인된 논문: **DIS04 · DIS08 · DIS11 · DIS12 · DIS13 · DIS14 · DIS15** (7편).
+로컬 `papers/DIS26/`에는 학회 전 받아둔 4편(DIS04·08·12·15)만 있음 — 필요 시 위 DOI 링크로 나머지 13편 보강.

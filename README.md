@@ -109,38 +109,38 @@ DIS26 — 4개 소주제 × 17편
 
 | # | 코드 | 일시(SGT) · 장소 | 논문 | 비고 |
 |---|---|---|---|---|
-| 1 | DIS01 | 6/15(월) 11:00 · LT 50 | [A Hybrid GUI-LLM Interface Paradigm for 3D Scene Customisation](https://programs.sigchi.org/dis/2026/program/content/257037) | 하이브리드 LCS — 통합 인터페이스 원형 |
-| 2 | DIS02 | 6/15(월) 16:10 · Aud. 1 | [When Systems Take Initiative: Adaptive Mixed-Initiative Database Querying](https://programs.sigchi.org/dis/2026/program/content/257198) | GUI↔자연어 전환 |
-| 3 | DIS03 | 6/15(월) 16:10 · Aud. 1 | [Fairy Cursor: AI Agent for In-the-Flow Assistance](https://programs.sigchi.org/dis/2026/program/content/257119) | 커서 임베디드 에이전트 |
-| 4 | DIS04 | 6/17(수) 09:00 · LT 52 | [IntentFlow: Fluid Dynamics of Intent Communication in Generative AI](https://programs.sigchi.org/dis/2026/program/content/257035) | 🇰🇷 KAIST Juho Kim · 📄 [arXiv](https://arxiv.org/abs/2507.22134) |
-| 5 | DIS05 | 6/15(월) 16:10 · Aud. 1 | [Who Did What? Avatars for Explainable Multi-Agent Systems in Knowledge Work](https://programs.sigchi.org/dis/2026/program/content/257236) | Orchestration 신뢰 |
+| 1 | DIS01 | 6/15(월) 11:00 · LT 50 | [A Hybrid GUI-LLM Interface Paradigm for 3D Scene Customisation](https://doi.org/10.1145/3800645.3812986) | 하이브리드 LCS — 통합 인터페이스 원형 |
+| 2 | DIS02 | 6/15(월) 16:10 · Aud. 1 | [When Systems Take Initiative: Adaptive Mixed-Initiative Database Querying](https://doi.org/10.1145/3800645.3812906) | GUI↔자연어 전환 |
+| 3 | DIS03 | 6/15(월) 16:10 · Aud. 1 | [Fairy Cursor: AI Agent for In-the-Flow Assistance](https://doi.org/10.1145/3800645.3813082) | 커서 임베디드 에이전트 |
+| 4 | DIS04 | 6/17(수) 09:00 · LT 52 | [IntentFlow: Fluid Dynamics of Intent Communication in Generative AI](https://doi.org/10.1145/3800645.3812999) | 🇰🇷 KAIST Juho Kim · 📄 [arXiv](https://arxiv.org/abs/2507.22134) |
+| 5 | DIS05 | 6/15(월) 16:10 · Aud. 1 | [Who Did What? Avatars for Explainable Multi-Agent Systems in Knowledge Work](https://doi.org/10.1145/3800645.3812981) | Orchestration 신뢰 |
 
 ### Ⅱ. AI 페르소나 — 정체성 설계 + 합성 페르소나(고객 이해) (6편)
 
 | # | 코드 | 일시(SGT) · 장소 | 논문 | 비고 |
 |---|---|---|---|---|
-| 1 | DIS16 | 6/17(수) 11:00 · LT 52 | [Designing Artificial Identity: Framework and Research Agenda](https://programs.sigchi.org/dis/2026/program/content/257056) | 🇰🇷 SNU·ETRI · **정통 레퍼런스 ★★** |
-| 2 | DIS17 | 6/16(화) 11:00 · LT 51 | [Designing Character-Bound In-Public Companions: ACG Practices](https://programs.sigchi.org/dis/2026/program/content/257118) | 캐릭터 페르소나 |
-| 3 | DIS12 | 6/16(화) 11:00 · LT 52 | [Understanding Down Syndrome Stereotypes in LLM-Based Personas](https://programs.sigchi.org/dis/2026/program/content/257253) | Persona-L · 📄 [arXiv](https://arxiv.org/abs/2512.02275) ★ |
-| 4 | DIS13 | 6/15(월) 11:00 · LT 51 | [StreetDesignAI: Multi-Persona Evaluation of Cycling Infrastructure](https://programs.sigchi.org/dis/2026/program/content/257240) | 다중 페르소나 |
-| 5 | DIS14 | 6/15(월) 11:00 · LT 51 | [PrivacyMotiv: Vulnerability-Centered Persona Journeys for Privacy UX](https://programs.sigchi.org/dis/2026/program/content/257081) | 취약성 중심 ★ |
-| 6 | DIS15 | 6/16(화) 11:00 · LT 52 | [ConSearcher: Conversational Information Seeking with Member Personas](https://programs.sigchi.org/dis/2026/program/content/257070) | 📄 [arXiv](https://arxiv.org/abs/2603.19747) |
+| 1 | DIS16 | 6/17(수) 11:00 · LT 52 | [Designing Artificial Identity: Framework and Research Agenda](https://doi.org/10.1145/3800645.3812962) | 🇰🇷 SNU·ETRI · **정통 레퍼런스 ★★** |
+| 2 | DIS17 | 6/16(화) 11:00 · LT 51 | [Designing Character-Bound In-Public Companions: ACG Practices](https://doi.org/10.1145/3800645.3813079) | 캐릭터 페르소나 |
+| 3 | DIS12 | 6/16(화) 11:00 · LT 52 | [Understanding Down Syndrome Stereotypes in LLM-Based Personas](https://doi.org/10.1145/3800645.3812894) | Persona-L · 📄 [arXiv](https://arxiv.org/abs/2512.02275) ★ |
+| 4 | DIS13 | 6/15(월) 11:00 · LT 51 | [StreetDesignAI: Multi-Persona Evaluation of Cycling Infrastructure](https://doi.org/10.1145/3800645.3812888) | 다중 페르소나 |
+| 5 | DIS14 | 6/15(월) 11:00 · LT 51 | [PrivacyMotiv: Vulnerability-Centered Persona Journeys for Privacy UX](https://doi.org/10.1145/3800645.3813014) | 취약성 중심 ★ |
+| 6 | DIS15 | 6/16(화) 11:00 · LT 52 | [ConSearcher: Conversational Information Seeking with Member Personas](https://doi.org/10.1145/3800645.3813049) | 📄 [arXiv](https://arxiv.org/abs/2603.19747) |
 
 ### Ⅲ. Agentic AI 금융 서비스에서의 고객 행동 (3편)
 
 | # | 코드 | 일시(SGT) · 장소 | 논문 | 비고 |
 |---|---|---|---|---|
-| 1 | DIS06 | 6/16(화) 16:10 · Aud. 1 | [MindStock: Principle-Anchored Feedback for Self-Reflection in Mobile Investment](https://programs.sigchi.org/dis/2026/program/content/257127) | 🇰🇷 KAIST/UNIST · **금융 의사결정 ★** |
-| 2 | DIS07 | 6/16(화) 16:10 · Aud. 1 | [Who Gets Left Out of Digital Banking in Later Life? HK Silver Population](https://programs.sigchi.org/dis/2026/program/content/257161) | 디지털뱅킹 포용 ★ |
-| 3 | DIS08 | 6/15(월) 16:10 · LT 52 | [Bonik Somiti: Social-Market Tool for Informal E-Market (Bangladesh)](https://programs.sigchi.org/dis/2026/program/content/257147) | 📄 [arXiv](https://arxiv.org/abs/2602.12650) |
+| 1 | DIS06 | 6/16(화) 16:10 · Aud. 1 | [MindStock: Principle-Anchored Feedback for Self-Reflection in Mobile Investment](https://doi.org/10.1145/3800645.3812925) | 🇰🇷 KAIST/UNIST · **금융 의사결정 ★** |
+| 2 | DIS07 | 6/16(화) 16:10 · Aud. 1 | [Who Gets Left Out of Digital Banking in Later Life? HK Silver Population](https://doi.org/10.1145/3800645.3812886) | 디지털뱅킹 포용 ★ |
+| 3 | DIS08 | 6/15(월) 16:10 · LT 52 | [Bonik Somiti: Social-Market Tool for Informal E-Market (Bangladesh)](https://doi.org/10.1145/3800645.3812955) | 📄 [arXiv](https://arxiv.org/abs/2602.12650) |
 
 ### Ⅳ. 인터페이스 디자인으로 사기·기만(deception/fraud) 방어 (3편)
 
 | # | 코드 | 일시(SGT) · 장소 | 논문 | 비고 |
 |---|---|---|---|---|
-| 1 | DIS09 | 6/17(수) 09:00 · Aud. 2 | [Is it Dark? Dark Pattern Influence in Livestream E-commerce](https://programs.sigchi.org/dis/2026/program/content/257068) | 행동전략·해석 ★ |
-| 2 | DIS10 | 6/17(수) 11:00 · LT 50 | [Revealed or Reinforced: Assistive Tech & Dark Patterns for Blind/LV Users](https://programs.sigchi.org/dis/2026/program/content/257053) | 접근성×기만 |
-| 3 | DIS11 | 6/15(월) 11:00 · LT 52 | [Rushed by Discomfort, Trapped by Immersion: VR Privacy Deceptive Design](https://programs.sigchi.org/dis/2026/program/content/257114) | VR/AR 다크패턴 |
+| 1 | DIS09 | 6/17(수) 09:00 · Aud. 2 | [Is it Dark? Dark Pattern Influence in Livestream E-commerce](https://doi.org/10.1145/3800645.3812964) | 행동전략·해석 ★ |
+| 2 | DIS10 | 6/17(수) 11:00 · LT 50 | [Revealed or Reinforced: Assistive Tech & Dark Patterns for Blind/LV Users](https://doi.org/10.1145/3800645.3812887) | 접근성×기만 |
+| 3 | DIS11 | 6/15(월) 11:00 · LT 52 | [Rushed by Discomfort, Trapped by Immersion: VR Privacy Deceptive Design](https://doi.org/10.1145/3800645.3812990) | VR/AR 다크패턴 |
 
 ---
 
