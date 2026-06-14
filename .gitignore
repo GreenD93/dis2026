@@ -1,1 +1,6 @@
 .DS_Store
+.claude/
+
+# 저작권 논문 PDF는 로컬 보관, 원격 미공개
+papers/**/*.pdf
+*.pdf
